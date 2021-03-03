@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amar Shah on Rowan McAllister</title>
+    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/amar-shah/</link>
+    <description>Recent content in Amar Shah on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/amar-shah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

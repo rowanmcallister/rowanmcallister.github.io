@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rowan McAllister</title>
+    <link>https://people.eecs.berkeley.edu/~rmcallister/tags/</link>
+    <description>Recent content in Tags on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Vehicles</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/tags/autonomous-vehicles/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/tags/autonomous-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/tags/reinforcement-learning/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/tags/source-themes/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mawson the Robot</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/tags/mawson-the-robot/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/tags/mawson-the-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Robots</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/tags/modular-robots/</link>
+      <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/tags/modular-robots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

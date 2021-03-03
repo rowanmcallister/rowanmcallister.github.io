@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Rowan McAllister</title>
+    <link>https://people.eecs.berkeley.edu/~rmcallister/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement Learning on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Invariant Representations for Reinforcement Learning without Reconstruction</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/dbc/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/dbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Meta-Reinforcement Learning forFlight with Suspended Payloads</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness to Out-of-Distribution Inputs via Task-Aware Generative Uncertainty</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/pets/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/pets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

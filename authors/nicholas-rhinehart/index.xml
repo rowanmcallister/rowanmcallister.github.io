@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Rhinehart on Rowan McAllister</title>
+    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/nicholas-rhinehart/</link>
+    <description>Recent content in Nicholas Rhinehart on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/nicholas-rhinehart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/carnovel/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/carnovel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Imitative Models for Flexible Inference, Planning, and Control</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/dim/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/dim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

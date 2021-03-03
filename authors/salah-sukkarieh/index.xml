@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salah Sukkarieh on Rowan McAllister</title>
+    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/salah-sukkarieh/</link>
+    <description>Recent content in Salah Sukkarieh on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/salah-sukkarieh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learned Stochastic Mobility Prediction for Planning with Control Uncertainty on Unstructured Terrain</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-jfr/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-jfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Planning and Stochastic Control with Experimental Validation on a Planetary Rover</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-iros/</link>
+      <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-iros/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

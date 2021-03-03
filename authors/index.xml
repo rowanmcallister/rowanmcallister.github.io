@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Rowan McAllister</title>
+    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/</link>
+    <description>Recent content in Authors on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/admin/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/admin/</guid>
+      <description>&lt;p&gt;I am a machine learning scientist at the &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; in California focusing on autonomous vehicle planning. Previously I was a postdoc in the &lt;a href=&#34;http://rail.eecs.berkeley.edu&#34; target=&#34;_blank&#34;&gt;Robotic AI and Learning Lab&lt;/a&gt; with &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt;, working on probabilistic modeling toward data-efficient reinforcement learning and autonomous vehicle planning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Angelos Filos</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/angelos-filos/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/angelos-filos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Rhinehart</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/nicholas-rhinehart/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/nicholas-rhinehart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panagiotis Tigas</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/panagiotis-tigas/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/panagiotis-tigas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergey Levine</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/sergey-levine/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/sergey-levine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yarin Gal</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/yarin-gal/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/yarin-gal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy Zhang</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/amy-zhang/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/amy-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Calandra</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/roberto-calandra/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/roberto-calandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory Kahn</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/gregory-kahn/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/gregory-kahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rachel Li</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/rachel-li/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/rachel-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suneel Belkhale</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/suneel-belkhale/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/suneel-belkhale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashwin Balakrishna</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/ashwin-balakrishna/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/ashwin-balakrishna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brijen Thananjeyan</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/brijen-thananjeyan/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/brijen-thananjeyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Li</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/felix-li/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/felix-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesco Borrelli</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/francesco-borrelli/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/francesco-borrelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Gonzalez</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/joseph-gonzalez/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/joseph-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ken Goldberg</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/ken-goldberg/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/ken-goldberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ugo Rosolia</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/ugo-rosolia/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/ugo-rosolia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kris Kitani</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/kris-kitani/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/kris-kitani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Clune</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/jeff-clune/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/jeff-clune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurtland Chua</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/kurtland-chua/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/kurtland-chua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carl Rasmussen</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/carl-rasmussen/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/carl-rasmussen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrian Weller</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/adrian-weller/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/adrian-weller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Kendall</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/alex-kendall/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/alex-kendall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amar Shah</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/amar-shah/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/amar-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark van der Wilk</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/mark-van-der-wilk/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/mark-van-der-wilk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Cipolla</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/roberto-cipolla/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/roberto-cipolla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angela Lui</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/angela-lui/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/angela-lui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Fitch</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/robert-fitch/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/robert-fitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salah Sukkarieh</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/salah-sukkarieh/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/salah-sukkarieh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Peynot</title>
+      <link>https://people.eecs.berkeley.edu/~rmcallister/authors/thierry-peynot/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~rmcallister/authors/thierry-peynot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

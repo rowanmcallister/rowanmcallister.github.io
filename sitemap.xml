@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/admin/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication_types/1/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/angelos-filos/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/tags/autonomous-vehicles/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/carnovel/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/nicholas-rhinehart/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/panagiotis-tigas/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication_types/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/sergey-levine/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/tags/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/yarin-gal/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/amy-zhang/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/dbc/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/tags/reinforcement-learning/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/roberto-calandra/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication_types/2/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/gregory-kahn/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/rachel-li/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/suneel-belkhale/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/ashwin-balakrishna/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/brijen-thananjeyan/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/felix-li/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/francesco-borrelli/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/joseph-gonzalez/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/ken-goldberg/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/saved/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/ugo-rosolia/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/kris-kitani/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/jeff-clune/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/pets/</loc>
+    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/kurtland-chua/</loc>
+    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/dim/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/carl-rasmussen/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/fpilco/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/tags/source-themes/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/adrian-weller/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/alex-kendall/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/amar-shah/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/mark-van-der-wilk/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/roberto-cipolla/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication_types/7/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/phd/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/dpilco/</loc>
+    <lastmod>2016-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/angela-lui/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-jfr/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/tags/mawson-the-robot/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/robert-fitch/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/salah-sukkarieh/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/authors/thierry-peynot/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-iros/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-masters/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/publication/undergrad/</loc>
+    <lastmod>2009-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/tags/modular-robots/</loc>
+    <lastmod>2009-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~rmcallister/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
