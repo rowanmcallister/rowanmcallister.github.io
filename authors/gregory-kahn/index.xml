@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregory Kahn on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/gregory-kahn/</link>
+    <link>https://rowanmcallister.github.io/authors/gregory-kahn/</link>
     <description>Recent content in Gregory Kahn on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/gregory-kahn/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/gregory-kahn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Model-Based Meta-Reinforcement Learning forFlight with Suspended Payloads</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</link>
+      <link>https://rowanmcallister.github.io/publication/meta-mbrl/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</guid>
+      <guid>https://rowanmcallister.github.io/publication/meta-mbrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robustness to Out-of-Distribution Inputs via Task-Aware Generative Uncertainty</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</link>
+      <link>https://rowanmcallister.github.io/publication/ood/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</guid>
+      <guid>https://rowanmcallister.github.io/publication/ood/</guid>
       <description></description>
     </item>
     

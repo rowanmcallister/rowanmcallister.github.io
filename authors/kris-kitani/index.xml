@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kris Kitani on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/kris-kitani/</link>
+    <link>https://rowanmcallister.github.io/authors/kris-kitani/</link>
     <description>Recent content in Kris Kitani on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/kris-kitani/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/kris-kitani/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</link>
+      <link>https://rowanmcallister.github.io/publication/precog/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</guid>
+      <guid>https://rowanmcallister.github.io/publication/precog/</guid>
       <description></description>
     </item>
     

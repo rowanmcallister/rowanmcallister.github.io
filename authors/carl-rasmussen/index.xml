@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl Rasmussen on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/carl-rasmussen/</link>
+    <link>https://rowanmcallister.github.io/authors/carl-rasmussen/</link>
     <description>Recent content in Carl Rasmussen on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/carl-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/carl-rasmussen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/fpilco/</link>
+      <link>https://rowanmcallister.github.io/publication/fpilco/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/fpilco/</guid>
+      <guid>https://rowanmcallister.github.io/publication/fpilco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving PILCO with Bayesian Neural Network Dynamics Models</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/dpilco/</link>
+      <link>https://rowanmcallister.github.io/publication/dpilco/</link>
       <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/dpilco/</guid>
+      <guid>https://rowanmcallister.github.io/publication/dpilco/</guid>
       <description></description>
     </item>
     

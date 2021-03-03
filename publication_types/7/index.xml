@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/publication_types/7/</link>
+    <link>https://rowanmcallister.github.io/publication_types/7/</link>
     <description>Recent content in 7 on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bayesian Learning for Data-Efficient Control</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/phd/</link>
+      <link>https://rowanmcallister.github.io/publication/phd/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/phd/</guid>
+      <guid>https://rowanmcallister.github.io/publication/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Planning and Stochastic Control with Experimental Validation on a Planetary Rover</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-masters/</link>
+      <link>https://rowanmcallister.github.io/publication/mawson-masters/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-masters/</guid>
+      <guid>https://rowanmcallister.github.io/publication/mawson-masters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Reconfiguration Planning in Modular Robots</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/undergrad/</link>
+      <link>https://rowanmcallister.github.io/publication/undergrad/</link>
       <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/undergrad/</guid>
+      <guid>https://rowanmcallister.github.io/publication/undergrad/</guid>
       <description></description>
     </item>
     

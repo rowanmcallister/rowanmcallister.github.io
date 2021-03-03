@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brijen Thananjeyan on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/brijen-thananjeyan/</link>
+    <link>https://rowanmcallister.github.io/authors/brijen-thananjeyan/</link>
     <description>Recent content in Brijen Thananjeyan on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/brijen-thananjeyan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/brijen-thananjeyan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Safety Augmented Value Estimation from Demonstrations (SAVED): Safe Deep Model-Based RL for Sparse Cost Robotic Tasks</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/saved/</link>
+      <link>https://rowanmcallister.github.io/publication/saved/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/saved/</guid>
+      <guid>https://rowanmcallister.github.io/publication/saved/</guid>
       <description></description>
     </item>
     

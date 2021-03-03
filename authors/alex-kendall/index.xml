@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Kendall on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/alex-kendall/</link>
+    <link>https://rowanmcallister.github.io/authors/alex-kendall/</link>
     <description>Recent content in Alex Kendall on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/alex-kendall/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/alex-kendall/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</link>
+      <link>https://rowanmcallister.github.io/publication/avsafety/</link>
       <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</guid>
+      <guid>https://rowanmcallister.github.io/publication/avsafety/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Clune on Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/authors/jeff-clune/</link>
+    <link>https://rowanmcallister.github.io/authors/jeff-clune/</link>
     <description>Recent content in Jeff Clune on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/authors/jeff-clune/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/jeff-clune/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Robustness to Out-of-Distribution Inputs via Task-Aware Generative Uncertainty</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</link>
+      <link>https://rowanmcallister.github.io/publication/ood/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</guid>
+      <guid>https://rowanmcallister.github.io/publication/ood/</guid>
       <description></description>
     </item>
     

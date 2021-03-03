@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rowan McAllister</title>
-    <link>https://people.eecs.berkeley.edu/~rmcallister/</link>
+    <link>https://rowanmcallister.github.io/</link>
     <description>Recent content on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~rmcallister/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/carnovel/</link>
+      <link>https://rowanmcallister.github.io/publication/carnovel/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/carnovel/</guid>
+      <guid>https://rowanmcallister.github.io/publication/carnovel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Invariant Representations for Reinforcement Learning without Reconstruction</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/dbc/</link>
+      <link>https://rowanmcallister.github.io/publication/dbc/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/dbc/</guid>
+      <guid>https://rowanmcallister.github.io/publication/dbc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Based Meta-Reinforcement Learning forFlight with Suspended Payloads</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</link>
+      <link>https://rowanmcallister.github.io/publication/meta-mbrl/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/meta-mbrl/</guid>
+      <guid>https://rowanmcallister.github.io/publication/meta-mbrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safety Augmented Value Estimation from Demonstrations (SAVED): Safe Deep Model-Based RL for Sparse Cost Robotic Tasks</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/saved/</link>
+      <link>https://rowanmcallister.github.io/publication/saved/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/saved/</guid>
+      <guid>https://rowanmcallister.github.io/publication/saved/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</link>
+      <link>https://rowanmcallister.github.io/publication/precog/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/precog/</guid>
+      <guid>https://rowanmcallister.github.io/publication/precog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robustness to Out-of-Distribution Inputs via Task-Aware Generative Uncertainty</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</link>
+      <link>https://rowanmcallister.github.io/publication/ood/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/ood/</guid>
+      <guid>https://rowanmcallister.github.io/publication/ood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/pets/</link>
+      <link>https://rowanmcallister.github.io/publication/pets/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/pets/</guid>
+      <guid>https://rowanmcallister.github.io/publication/pets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Imitative Models for Flexible Inference, Planning, and Control</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/dim/</link>
+      <link>https://rowanmcallister.github.io/publication/dim/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/dim/</guid>
+      <guid>https://rowanmcallister.github.io/publication/dim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/fpilco/</link>
+      <link>https://rowanmcallister.github.io/publication/fpilco/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/fpilco/</guid>
+      <guid>https://rowanmcallister.github.io/publication/fpilco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</link>
+      <link>https://rowanmcallister.github.io/publication/avsafety/</link>
       <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/avsafety/</guid>
+      <guid>https://rowanmcallister.github.io/publication/avsafety/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Learning for Data-Efficient Control</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/phd/</link>
+      <link>https://rowanmcallister.github.io/publication/phd/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/phd/</guid>
+      <guid>https://rowanmcallister.github.io/publication/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving PILCO with Bayesian Neural Network Dynamics Models</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/dpilco/</link>
+      <link>https://rowanmcallister.github.io/publication/dpilco/</link>
       <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/dpilco/</guid>
+      <guid>https://rowanmcallister.github.io/publication/dpilco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learned Stochastic Mobility Prediction for Planning with Control Uncertainty on Unstructured Terrain</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-jfr/</link>
+      <link>https://rowanmcallister.github.io/publication/mawson-jfr/</link>
       <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-jfr/</guid>
+      <guid>https://rowanmcallister.github.io/publication/mawson-jfr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Planning and Stochastic Control with Experimental Validation on a Planetary Rover</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-iros/</link>
+      <link>https://rowanmcallister.github.io/publication/mawson-iros/</link>
       <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-iros/</guid>
+      <guid>https://rowanmcallister.github.io/publication/mawson-iros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Planning and Stochastic Control with Experimental Validation on a Planetary Rover</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-masters/</link>
+      <link>https://rowanmcallister.github.io/publication/mawson-masters/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/mawson-masters/</guid>
+      <guid>https://rowanmcallister.github.io/publication/mawson-masters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Reconfiguration Planning in Modular Robots</title>
-      <link>https://people.eecs.berkeley.edu/~rmcallister/publication/undergrad/</link>
+      <link>https://rowanmcallister.github.io/publication/undergrad/</link>
       <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~rmcallister/publication/undergrad/</guid>
+      <guid>https://rowanmcallister.github.io/publication/undergrad/</guid>
       <description></description>
     </item>
     
