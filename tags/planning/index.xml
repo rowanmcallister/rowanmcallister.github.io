@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planning on Rowan McAllister</title>
+    <link>https://rowanmcallister.github.io/tags/planning/</link>
+    <description>Recent content in Planning on Rowan McAllister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:01 +0000</lastBuildDate>
+    
+	    <atom:link href="https://rowanmcallister.github.io/tags/planning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contingencies from Observations: Tractable Contingency Planning with Learned Behavior Models</title>
+      <link>https://rowanmcallister.github.io/publication/contingency/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/contingency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs</title>
+      <link>https://rowanmcallister.github.io/publication/fpilco/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/fpilco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

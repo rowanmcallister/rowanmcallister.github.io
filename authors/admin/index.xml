@@ -6,10 +6,28 @@
     <description>Recent content on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:01 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contingencies from Observations: Tractable Contingency Planning with Learned Behavior Models</title>
+      <link>https://rowanmcallister.github.io/publication/contingency/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/contingency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcome-Driven Reinforcement Learning via Variational Inference</title>
+      <link>https://rowanmcallister.github.io/publication/goals/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/goals/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?</title>
@@ -158,7 +176,7 @@
     <item>
       <title></title>
       <link>https://rowanmcallister.github.io/authors/admin/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a machine learning scientist at the &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; in California focusing on autonomous vehicle planning. Previously I was a postdoc in the &lt;a href=&#34;http://rail.eecs.berkeley.edu&#34; target=&#34;_blank&#34;&gt;Robotic AI and Learning Lab&lt;/a&gt; with &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt;, working on probabilistic modeling toward data-efficient reinforcement learning and autonomous vehicle planning.&lt;/p&gt;

@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:01 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,92 @@
     <item>
       <title></title>
       <link>https://rowanmcallister.github.io/authors/admin/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a machine learning scientist at the &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; in California focusing on autonomous vehicle planning. Previously I was a postdoc in the &lt;a href=&#34;http://rail.eecs.berkeley.edu&#34; target=&#34;_blank&#34;&gt;Robotic AI and Learning Lab&lt;/a&gt; with &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt;, working on probabilistic modeling toward data-efficient reinforcement learning and autonomous vehicle planning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Charles Packer</title>
+      <link>https://rowanmcallister.github.io/authors/charles-packer/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/charles-packer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff He</title>
+      <link>https://rowanmcallister.github.io/authors/jeff-he/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/jeff-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Gonzalez</title>
+      <link>https://rowanmcallister.github.io/authors/joseph-gonzalez/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/joseph-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Wright</title>
+      <link>https://rowanmcallister.github.io/authors/matthew-wright/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/matthew-wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Rhinehart</title>
+      <link>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergey Levine</title>
+      <link>https://rowanmcallister.github.io/authors/sergey-levine/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/sergey-levine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Rudner</title>
+      <link>https://rowanmcallister.github.io/authors/tim-rudner/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/tim-rudner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitchyr Pong</title>
+      <link>https://rowanmcallister.github.io/authors/vitchyr-pong/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/vitchyr-pong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yarin Gal</title>
+      <link>https://rowanmcallister.github.io/authors/yarin-gal/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/yarin-gal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -31,38 +112,11 @@
     </item>
     
     <item>
-      <title>Nicholas Rhinehart</title>
-      <link>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Panagiotis Tigas</title>
       <link>https://rowanmcallister.github.io/authors/panagiotis-tigas/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/panagiotis-tigas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sergey Levine</title>
-      <link>https://rowanmcallister.github.io/authors/sergey-levine/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/sergey-levine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yarin Gal</title>
-      <link>https://rowanmcallister.github.io/authors/yarin-gal/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/yarin-gal/</guid>
       <description></description>
     </item>
     
@@ -144,15 +198,6 @@
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/francesco-borrelli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joseph Gonzalez</title>
-      <link>https://rowanmcallister.github.io/authors/joseph-gonzalez/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/joseph-gonzalez/</guid>
       <description></description>
     </item>
     
