@@ -6,10 +6,19 @@
     <description>Recent content on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dynamics-Aware Comparison of Learned Reward Functions</title>
+      <link>https://rowanmcallister.github.io/publication/dard/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/dard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty</title>
