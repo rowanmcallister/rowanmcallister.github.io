@@ -6,10 +6,19 @@
     <description>Recent content in Logan Ellis on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/logan-ellis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Control-Aware Prediction Objectives for Autonomous Driving</title>
+      <link>https://rowanmcallister.github.io/publication/capo/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/capo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamics-Aware Comparison of Learned Reward Functions</title>

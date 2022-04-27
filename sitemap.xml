@@ -4,18 +4,82 @@
   
   <url>
     <loc>https://rowanmcallister.github.io/authors/admin/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/publication_types/1/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/authors/adrien-gaidon/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/tags/autonomous-vehicles/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/blake-wulfe/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/capo/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/jean-mercat/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/logan-ellis/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication_types/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/sergey-levine/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/tags/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,42 +90,7 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/authors/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/blake-wulfe/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rowanmcallister.github.io/publication/dard/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/jean-mercat/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/logan-ellis/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/publication_types/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/publication/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -72,25 +101,17 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rowanmcallister.github.io/post/research/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/tags/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rowanmcallister.github.io/post/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/publication_types/3/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/tags/autonomous-vehicles/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -161,12 +182,6 @@
   
   <url>
     <loc>https://rowanmcallister.github.io/tags/planning/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/sergey-levine/</loc>
     <lastmod>2021-04-21T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>

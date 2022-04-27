@@ -6,10 +6,19 @@
     <description>Recent content on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Control-Aware Prediction Objectives for Autonomous Driving</title>
+      <link>https://rowanmcallister.github.io/publication/capo/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/capo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamics-Aware Comparison of Learned Reward Functions</title>
@@ -18,6 +27,159 @@
       
       <guid>https://rowanmcallister.github.io/publication/dard/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>How to do research</title>
+      <link>https://rowanmcallister.github.io/post/research/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/post/research/</guid>
+      <description>
+
+&lt;p&gt;Choosing the &lt;em&gt;right&lt;/em&gt; research problem is difficult. Both &lt;a href=&#34;http://vladlen.info/&#34; target=&#34;_blank&#34;&gt;Vladlen Koltun&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Hamming&#34; target=&#34;_blank&#34;&gt;Richard Hamming&lt;/a&gt; offer some great advice on selecting which research problems to work on and how. This post is simply a summary of Richard&amp;rsquo;s talk &amp;ldquo;&lt;a href=&#34;https://youtu.be/a1zDuOPkMSw&#34; target=&#34;_blank&#34;&gt;You and Your Research&lt;/a&gt;&amp;rdquo;, and Vladlen&amp;rsquo;s talk &amp;ldquo;&lt;a href=&#34;https://youtu.be/4LEZED1YXm0?t=1420&#34; target=&#34;_blank&#34;&gt;Doing (Good) Research&lt;/a&gt;&amp;rdquo;, both worth watching in their entirety!&lt;/p&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;Progressing from undergrad into research can seem to flip any STEM field from a science into an art: undergrads identify solutions to problems versus researchers who identify problems worth solving. The &lt;em&gt;right&lt;/em&gt; problem is ill-defined, yet critical to identify.&lt;/p&gt;
+
+&lt;h2 id=&#34;define-right&#34;&gt;Define &amp;ldquo;right&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Richard&lt;/strong&gt;: &lt;em&gt;right&lt;/em&gt; is simply subjective, up to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vladlen&lt;/strong&gt;: &lt;em&gt;right&lt;/em&gt; should:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contribute to the progress and well-being of humanity, should be useful.&lt;/li&gt;
+&lt;li&gt;Maximize your contribution to the research community and society (not vice versa) by
+
+&lt;ul&gt;
+&lt;li&gt;inspiring the community;&lt;/li&gt;
+&lt;li&gt;shifting the way the community thinks about existing problems (or new ones);&lt;/li&gt;
+&lt;li&gt;be a methodical evaluation of methods to demonstrate which should be used when;&lt;/li&gt;
+&lt;li&gt;be a dataset, benchmark, or open source code people find useful.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-to-work-on-the-right-problems&#34;&gt;How to work on the &amp;ldquo;right&amp;rdquo; problems&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create a long term vision to guide yourself (not a random walk), have high-level meta goals.
+
+&lt;ul&gt;
+&lt;li&gt;Ask yourself: what fields or applications do you find interesting or meaningful and why?&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll only really succeed in work that you enjoy.&lt;/li&gt;
+&lt;li&gt;Doing meaningful work helps avoid burnout.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Understand what components are needed for your high-level goals to become a reality.&lt;/li&gt;
+&lt;li&gt;Understand the state-of-the-art for each component by &lt;em&gt;reading&lt;/em&gt; and &lt;em&gt;doing&lt;/em&gt; (explained later).
+
+&lt;ul&gt;
+&lt;li&gt;Analyze bottlenecks.&lt;/li&gt;
+&lt;li&gt;Understand what you could do to benefit the collective progress of the community.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Solve a component&amp;rsquo;s problem if the time is right.
+
+&lt;ul&gt;
+&lt;li&gt;Too early = not sufficient tools to attack the problem well yet, will make little headway.&lt;/li&gt;
+&lt;li&gt;Too late = you won&amp;rsquo;t contribute to affecting the research community&amp;rsquo;s direction much,
+improvements will be too incremental.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;understand-by-reading&#34;&gt;Understand by reading&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read a lot.&lt;/li&gt;
+&lt;li&gt;Read critically. When reading about a new method, ask:
+
+&lt;ul&gt;
+&lt;li&gt;What are its limitations and assumptions, when will it &lt;em&gt;break&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;What gaps remain?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reading critically enables new ways of thinking about methods. Otherwise you won&amp;rsquo;t make big
+changes, you&amp;rsquo;ll merely extend the old with incremental improvements.&lt;/li&gt;
+&lt;li&gt;So tolerate some subjective uncertainty about the &amp;ldquo;accepted methods&amp;rdquo;. Be sufficiently skeptical
+to perceive flaws and see what others missed. It&amp;rsquo;s OK to be (justifiably) contrarian!&lt;/li&gt;
+&lt;li&gt;Inform your colleagues about your research interests. They&amp;rsquo;ll give you greater observability of
+the relevant papers you should read (but missed).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;understand-by-doing&#34;&gt;Understand by doing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Re-implementation is the best way to understand a method. You&amp;rsquo;ll discover details you can&amp;rsquo;t
+glean from just reading, and develop deeper insight.&lt;/li&gt;
+&lt;li&gt;Implementation helps observe things you never set out to discover. And by following the
+scientific method down this rabbit hole, you can then go about testing assumptions about what
+generated the effect you observed.&lt;/li&gt;
+&lt;li&gt;Research then begets research: the more things you try, the more you observe, the more things
+you want to try next etc, the more people will want to collaborate with you, and invite you to
+things, and tell you about things you didn&amp;rsquo;t otherwise know.&lt;/li&gt;
+&lt;li&gt;Be methodical when (re-)implementing: swap a method&amp;rsquo;s subcomponents in and out in a
+controlled way to understand which components were critical.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;understand-by-writing&#34;&gt;Understand by writing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write down your ideas + experimental methods early.&lt;/li&gt;
+&lt;li&gt;This makes clear what your assumptions are and what gaps remain to be filled.&lt;/li&gt;
+&lt;li&gt;You can also share this (more concrete) document of your ideas with your peers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./spiral.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;work-ethic&#34;&gt;Work ethic&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Luck favors the prepared!&lt;/li&gt;
+&lt;li&gt;Research is 99% perspiration, 1% inspiration. Newton thought if people just worked as hard as
+he did, they&amp;rsquo;d get the same result.&lt;/li&gt;
+&lt;li&gt;Great researchers always think about problems, even when they&amp;rsquo;re away from work.&lt;/li&gt;
+&lt;li&gt;Set aside quiet time reflection time for “great thoughts” like Friday afternoon to:
+
+&lt;ul&gt;
+&lt;li&gt;Think higher-level about where you are heading, is this the right direction?&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t cling to bad ideas too long, know when to walk away / bury work.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Have 10&amp;ndash;20 problems in your head at any one time, so you don&amp;rsquo;t stay &amp;ldquo;stuck&amp;rdquo; in one problem. When a clue comes along for one of them, focus on it.&lt;/li&gt;
+&lt;li&gt;Have an open door policy (need to collaborate), it&amp;rsquo;s better in the long run.&lt;/li&gt;
+&lt;li&gt;Learn how to communicate your ideas in a formal and casual way.&lt;/li&gt;
+&lt;li&gt;Be on the lookout for collaborators.&lt;/li&gt;
+&lt;li&gt;Quality over quantity (do not add noise to conferences or arXiv, or worse: mislead).
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Contribution&lt;/em&gt; is the goal, the publication process is a liability.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Confidence is necessary: it is important that you believe you can do great work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;challenging-yourself&#34;&gt;Challenging yourself&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ask yourself: if what I&amp;rsquo;m doing is not important, and not likely to lead to important things in
+the future, why am I working on it?
+
+&lt;ul&gt;
+&lt;li&gt;Caveat: not to say adopt &amp;ldquo;Nobel prize winner syndrome&amp;rdquo; of only working on &amp;ldquo;great
+problems&amp;rdquo; and getting nowhere.&lt;/li&gt;
+&lt;li&gt;Instead, work on small acorns that have the potential to grow into mighty oaks.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ask yourself: what are the most important problems in my field?&lt;/li&gt;
+&lt;li&gt;Be willing to accept change, don&amp;rsquo;t stick to a particular method.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;warnings&#34;&gt;Warnings&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sometimes the people around you cannot see you&amp;rsquo;re doing great work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A printer-friendly version of this post is &lt;a href=&#34;https://drive.google.com/file/d/1flKrp69Oi0pvPMfpoencMrbMMe5Eh65Z&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./graduation.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
