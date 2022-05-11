@@ -6,10 +6,511 @@
     <description>Recent content in Posts on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Workshop organization guide</title>
+      <link>https://rowanmcallister.github.io/post/workshops/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/post/workshops/</guid>
+      <description>
+
+&lt;p&gt;This post is intended as a guide on how to organize an academic workshop at conferences in the fields of machine learning, robotics, and computer vision. Special thanks to &lt;a href=&#34;https://www.xinshuoweng.com/&#34; target=&#34;_blank&#34;&gt;Xinshuo Weng&lt;/a&gt;, &lt;a href=&#34;https://eringrant.github.io/&#34; target=&#34;_blank&#34;&gt;Erin Grant&lt;/a&gt;, &lt;a href=&#34;https://people.eecs.berkeley.edu/~abajcsy/&#34; target=&#34;_blank&#34;&gt;Andrea Bajcsy&lt;/a&gt;, &lt;a href=&#34;https://www.thomaskrendlgilbert.com/&#34; target=&#34;_blank&#34;&gt;Thomas Gilbert&lt;/a&gt;, &lt;a href=&#34;https://www.robertocalandra.com/about/&#34; target=&#34;_blank&#34;&gt;Roberto Calandra&lt;/a&gt;, &lt;a href=&#34;http://www.cs.ox.ac.uk/people/yarin.gal/website/&#34; target=&#34;_blank&#34;&gt;Yarin Gal&lt;/a&gt;, &lt;a href=&#34;http://people.eecs.berkeley.edu/~pabbeel/&#34; target=&#34;_blank&#34;&gt;Pieter Abbeel&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/wei-lun-harry-chao&#34; target=&#34;_blank&#34;&gt;Wei-Lun (Harry) Chao&lt;/a&gt; for their helpful input, editing, and feedback. All opinions are my own, not necessarily shared.&lt;/p&gt;
+
+&lt;h1 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h1&gt;
+
+&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;
+
+&lt;p&gt;Why organize a workshop? Workshops help &lt;strong&gt;foster a research community&lt;/strong&gt; that you care about. Beyond &lt;strong&gt;sharing ideas&lt;/strong&gt;, workshops help communities identify the &lt;strong&gt;open questions&lt;/strong&gt; worth solving and build a sense of what to work on next through group discussions like panels. Such &amp;ldquo;collaborative work&amp;rdquo; and collective brainstorming can help a community make progress towards organizing open questions into short-to-long term topics that are likely impactful and tractable given the field&amp;rsquo;s current state. As an organizer, you can also influence the community&amp;rsquo;s &lt;strong&gt;attention&lt;/strong&gt; towards underappreciated ideas and lesser-known researchers that &lt;em&gt;you think deserve more attention&lt;/em&gt;, based on the workshop topic you choose and the keynote speakers you invite.&lt;/p&gt;
+
+&lt;p&gt;A workshop is also a good &lt;strong&gt;networking&lt;/strong&gt; opportunity. For attendees, your venue allows people with similar interests to mingle, share ideas, and socialize. If your workshop is interdisciplinary, it can facilitate cross-pollination of ideas between fields, and if your workshop topic centers on an application, it can build bridges between academia and industry. As an organizer, you’ll meet speakers and authors on friendly terms, having just provided them an additional opportunity to showcase their work. In addition, you’ll get to work closely with organizers from different labs and companies, including researchers from competing companies that you may not have been able to work with otherwise and get to know. Overall, it can be fun and rewarding.&lt;/p&gt;
+
+&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+
+&lt;p&gt;The first thing to decide when organizing a workshop is: What should your workshop be about? Choose a workshop topic that you are passionate about, that you think is important, and that is timely for the community that you are trying to reach. This often means choosing a novel topic that is not yet mainstream but it is likely to play an important role in the next couple of years. Conversely, choosing a topic that was already explored in past workshops (e.g., a series of workshops on a single topic) requires some thought about how to keep the topic fresh and different from prior years. If you want to continue a topic from prior years, email the organizers from the previous event to see if they are planning to organize the workshop again. No one owns a topic, but it’s easier to collaborate on one proposal than to write competing proposals.&lt;/p&gt;
+
+&lt;p&gt;The next step is to select the &lt;strong&gt;scope&lt;/strong&gt;. The right scope is a balance between being too broad (too vague to rally people around, or bearing little difference from the conference) and too niche (can’t attract crowds large enough to warrant the venue or have meaningful discussion). I recommend focusing on a family of &lt;em&gt;methods&lt;/em&gt; (e.g., offline reinforcement learning or invertible models) or an &lt;em&gt;application&lt;/em&gt; (e.g., CV for medicine or ML for climate), but not &lt;em&gt;both&lt;/em&gt; (too specific). For example, see past workshop topics at &lt;a href=&#34;https://www.icra2022.org/program/workshops-and-tutorials&#34; target=&#34;_blank&#34;&gt;ICRA&lt;/a&gt;, &lt;a href=&#34;https://roboticsconference.org/program/workshops/&#34; target=&#34;_blank&#34;&gt;RSS&lt;/a&gt;, &lt;a href=&#34;https://cvpr2022.thecvf.com/workshop-schedule&#34; target=&#34;_blank&#34;&gt;CVPR&lt;/a&gt;, &lt;a href=&#34;https://neurips.cc/Conferences/2021/Schedule?type=Workshop&#34; target=&#34;_blank&#34;&gt;NeurIPS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;
+
+&lt;p&gt;How to start organizing a workshop? You shouldn’t do it alone since it’s too much work, and being a community event it’s good to have multiple perspectives, so your first step is to recruit co-organizers. Choose your co-organizers carefully, from a range of institutions, subfields, and backgrounds. It works best when &lt;strong&gt;organizers have assigned roles&lt;/strong&gt;, with each organizer taking ownership over some aspect of the workshop (e.g., one of the headers in this document). Assigning responsibilities helps track all the TODOs so none are forgotten in addition to sharing the workload. For example, one co-organizer could be responsible for managing the workshop’s email account and website (easy), another conducting outreach (easy), and another to maintain contact with all your other invited speakers to ensure they are on track to submit the required materials (harder), and another to recruit a program committee and organize reviewing (harder). Discuss and establish roles as soon as possible, ideally before you submit your proposal. Ensure each organizer understands and feels comfortable about their roles too. This will help prevent a few organizers from eventually taking all the responsibilities.&lt;/p&gt;
+
+&lt;p&gt;A critical role is the “&lt;strong&gt;lead organizer&lt;/strong&gt;” to monitor everything at a high level. They can make executive decisions if needed (e.g., amid slow deliberations over email) and delegate incoming or scheduled tasks to ensure nothing falls through the cracks and everything happens on time. Lead organizers receive the most work and stress, being the one ultimately responsible for the workshop. So if you are the lead organizer, it is in your best interest to select co-organizers who you know you can rely on and who will actively and enthusiastically help out. Some workshops designate a “liaison role” to communicate with the conference’s workshop chairs (who oversee venue logistics for all workshops), but since the lead organizer needs to know about all these emails anyway, I find it simpler and faster for the lead organizer to be the liaison themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The ideal organizational team is a mix between newer to more experienced organizers.&lt;/strong&gt; Newer organizers can bring fresh suggestions of formats, themes, and speakers; while more experienced organizers can offer guidance on what works well and have larger networks to reach certain hard-to-reach speakers, recruit a program committee (aka reviewers), or seek other help. Workshop chairs who judge your proposal will be looking for both: newer organizers (less likely to rehash old ideas) while also assessing the organizational experience of the team (so they know you can do it). Some believe adding very senior-career organizers can help chances of workshop approval since their reputation can “legitimize” a workshop. I don’t know how true this is, possibly at IEEE conferences, but don’t count on them to actively help with the low-level details of the workshop. Bringing in new organizers is also a nice way to boost their experiences, resumes, and community presence (especially for more junior students) which is part of your positive impact on the community. But not too many, and you don’t want a team of extremes: half brand-new and half too-senior-to-meaningfully-help. You want a high-entropy distribution over experience, including organizers in-between who know what they are doing &lt;em&gt;and&lt;/em&gt; actively helping, guiding, and monitoring. In addition to experiential diversity, geographic and demographic diversity will help you reach more speakers, create a workshop for everyone, and increase chances of your workshop’s approval.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unreliable organizers:&lt;/strong&gt; Occasionally some organizers disappear after you’ve submitted your proposal. It’s not common, but it happens, more likely with a large number of organizers. NeurIPS considers more than 6 to be “&lt;a href=&#34;https://nips.cc/Conferences/2021/WorkshopsGuide&#34; target=&#34;_blank&#34;&gt;too many organizers&lt;/a&gt;”, and I agree, unless you’re additionally organizing venues, audiovisuals, or &lt;a href=&#34;./#competitions&#34;&gt;competitions&lt;/a&gt;. Too many organizers can lead to a &lt;a href=&#34;https://en.wikipedia.org/wiki/Diffusion_of_responsibility&#34; target=&#34;_blank&#34;&gt;diffusion of responsibility&lt;/a&gt;. So select 4–6 organizers, who genuinely care about the workshop’s success, and clearly establish everyone’s responsibility in your proposal (including “advisors”).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bottom line:&lt;/strong&gt; Your main priority is finding a reliable, core group of people to help you with either (1) the substantial amount of work ahead or (2) offer reliable guidance, suggestions, and respond to all your questions and help out if you get stuck (e.g. with technical complexities using submission portals etc). So whatever their experience, select co-organizers who really do care about the workshop’s vision and success. If organizers are invested, your workshop will run smoother as organizers will likely think &lt;em&gt;proactively&lt;/em&gt; about potential issues before they happen, rather than &lt;em&gt;reacting&lt;/em&gt; to issues after they occur. And, if you really want to include any too-senior-to-do-any-work types for reputation points, consider listing them under “advisory committee” on your website, so those in the “organizing committee” don’t feel their recognition is unfairly diluted given their larger workload.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Start early:&lt;/strong&gt; To form a reliable organizational team, start 4–6 weeks before the proposal is due. This enables you to gradually enlarge your team: for example, after forming a team of three co-organizers, you may discuss with the team and reach out to a fourth person. Avoid last-minute invitations (e.g., a few days before the proposal due date) for two reasons. First, the newly invited person will not have enough time to provide comments on the proposal and is too late for speaker selection. Second, you may not have enough time to discuss the expected workload with them. This is important if the invitee has no prior experience: they may underestimate the workload and later become less active in the team.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moving forwards:&lt;/strong&gt; Once the organization team is decided, it’s helpful to then video-conference together to discuss initial plans for what the workshop should be about and the rough structure organizers want (e.g. competitions/panels or not). Once a mutual understanding is established, it’s then easier to collaborate asynchronously over email or Google Docs to draft a schedule, add speaker suggestions, and discuss via comments; prior to preparing the workshop proposal. For multiple shared resources like documents, spreadsheets, slides, and videos; keep it all organized in a shared Drive folder that all organizers have edit access to. After your proposal is accepted, additional meetings prior to events like sending speaker invitations and starting the reviewing phase can help co-organizers stay involved. Without such follow up meetings, the main organizer might get stuck doing most of the work, unbeknownst to the other organizers.&lt;/p&gt;
+
+&lt;h1 id=&#34;proposal&#34;&gt;Proposal&lt;/h1&gt;
+
+&lt;p&gt;Conferences will announce a “call for workshops” analogous to a “call for papers” that you can submit to. The application process mainly involves submitting a 2–5 page PDF proposal on what your workshop would be about and justifying why it’s worthwhile. Depending on the conference, they might accept 30–60% of these applications. So, workshop applications are competitive and it’s worth paying attention to various selection criteria to maximize your chances of acceptance.&lt;/p&gt;
+
+&lt;h2 id=&#34;selection-criteria&#34;&gt;Selection Criteria&lt;/h2&gt;
+
+&lt;p&gt;Read the “call for workshops” (&lt;a href=&#34;https://nips.cc/Conferences/2021/CallForWorkshops&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;) carefully, and any additional “guidance” (&lt;a href=&#34;https://nips.cc/Conferences/2021/WorkshopsGuide&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;) they offer detailing workshop evaluation. Workshop chairs will review your proposal based on criteria close to these, so ensure you have convincing answers to each of the selection criteria that are clear to readers of your proposal. Don’t bury important points on page 5, but present them early, bold keywords if needed so they are impossible to miss. Give special attention to (1) why your topic matters, (2) diversity of speakers and organizers (3) why your workshop is different from previous years if in a series. Note: the second largest NeurIPS workshop &lt;a href=&#34;http://bayesiandeeplearning.org/&#34; target=&#34;_blank&#34;&gt;BDL&lt;/a&gt; was rejected in 2020 after workshop chairs deemed it too similar to their 2019 version). Other reasons NeurIPS 2019 workshops were rejected are outlined &lt;a href=&#34;https://neuripsconf.medium.com/2019workshops-ec820e4d558e&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Checklist:&lt;/strong&gt; regardless of the conference&amp;rsquo;s guidance, I still make sure to address these following points clearly and in the early pages of my proposals:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Frame your proposal around how your workshop would benefit many attendees at the conference, not only some pre-existing community you care about. The conference will ultimately be selecting proposals around what makes the conference a success and impactful and what benefits its attendees. So clearly outline why the conference would benefit from hosting this workshop and why conference attendees would benefit from attending it. Explain why this topic is important and timely for a subset of the conference community that warrants more focus, and that a workshop at this particular conference would be the ideal venue for them to meet like-minded individuals, make meaningful connections, including between academic and industry, and ultimately create a positive impact on the world (workshop impact means conference impact). Ask yourself: why can&amp;rsquo;t authors just submit their papers to the conference itself; why do they really need to get together as a separate workshop?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diversity&lt;/strong&gt; of speakers and organizers. When talking about diversity, try not to be vague or generic, otherwise it will seem like your commitment to diversity is in lip service only. I find it helpful to explicitly quantify how diverse our speakers and organizers are, using numbers on the breakdown of genders, race, geographic location, career stage, expertise, and who is new to this particular conference (bringing in outsiders can be a plus). For example, to illustrate career-stage diversity, I’ll say our speakers comprise: 1 student, 2 postdocs, 2 junior faculty, 1 senior faculty, 3 industry; and mention gender diversity like 4 women and 4 men; and geographic, e.g., 4 from the Americas, 2 from Asia, 2 Europe; and categorize their talks into subtopics to show how we’ll get a good coverage of topics throughout the day. You can summarize some of these differences into a table for clarity too (&lt;a href=&#34;https://docs.google.com/document/d/1To2CYr66aWuZDWWNWqiUSiHwaLaHLO9Qyn1CKZEDCGQ/#heading=h.o6zsgk9pscd9&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;). Chairs might not have realized this from just reading their names, and may have skimmed their bios, but it is now clear that speakers have diverse career stages, demographics, and locations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fresh ideas:&lt;/strong&gt; The proposal should highlight how the workshop will be different to prior related workshops, in terms of theme, format, and maybe some interesting ideas for poster sessions if the conference will be hybrid, etc. Your workshop shouldn’t just rehash the same topics discussed the previous year, but either be an emerging topic or somehow evolved from a prior year with a different focus even if the same topic. How will new organizers contribute to make the workshop different this year given their role?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Engagement:&lt;/strong&gt; Plans to advertise the call for papers, why the community will be excited by this topic, and why they will want to come together on this topic. Concretize this with numbers of related papers in related conferences or number of attendees at the previous or similar workshop. Also, describe how you plan to engage the attendees during the workshop, for example through poster sessions, breakout discussions, online polls at the start/end of the workshop about open questions, a debate, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organizer experience:&lt;/strong&gt; Highlight what workshops the proposed organizers have previously had experience with. It&amp;rsquo;s good to have organizers that have organized workshops before (to convince the workshop chairs that you know what you&amp;rsquo;re doing) but also that you have newer organizers who may have expertise in new and emerging directions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solicit participation:&lt;/strong&gt; Highlight how you’ll plan the call for papers (more important for IEEE conferences). I usually enumerate all the ways I plan to call for papers (see &lt;a href=&#34;.#call-for-papers&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;a-fait-accompli&#34;&gt;A Fait Accompli&lt;/h2&gt;
+
+&lt;p&gt;Your workshop proposal must instill confidence that you know what you are doing. I find one way to do this is to craft the proposal in such a way that the workshop appears a &lt;em&gt;fait accompli&lt;/em&gt;: everything is done and all speakers have confirmed and standing by, your workshop is clearly ready to go, all the workshop chairs need to do now is give permission to proceed! This means:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Confirmed speakers:&lt;/strong&gt; Invite all your speakers a month before the proposal is due, to get a list of confirmed speakers to list in your proposal. Emphasize that they are &lt;em&gt;confirmed&lt;/em&gt; speakers in your proposal. Note: proposals to IEEE conferences like ICRA and IROS often require proof of each speaker’s conditional participation if the workshop is approved. You can either provide a commitment letter that you prepare and speakers sign, or (easier) a copy/screenshot of speakers’ emails confirming. You can ask the speakers if it’s OK to screenshot their email for this purpose. IEEE conferences also like seeing support or “endorsement”, such as a supporting letter by an &lt;a href=&#34;https://www.ieee-ras.org/technical-committees&#34; target=&#34;_blank&#34;&gt;RAS Technical Committee&lt;/a&gt; member.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Schedule:&lt;/strong&gt; Add a schedule to your proposal, formatted as a table, including specific times and event type. For talks, include the speaker’s name. For example, don’t write “Fourth event: Keynote Speaker 3”, write “10:00am, Keynote Speaker: Jane Doe”. You can always adjust later once speakers update their constraints closer to the date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; It helps if the workshop chairs can “see” the workshop they are reviewing. That means creating a website and displaying the URL prominently in your proposal. The website should look as polished as possible. Show the speakers (with images), schedule, organizers, and program committee if you have one, linking names to personal websites in case the workshop chairs want to check them out. Look at other previous accepted workshops for guidance on what a website “should” look like.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As an example, here is our &lt;a href=&#34;https://docs.google.com/document/d/1To2CYr66aWuZDWWNWqiUSiHwaLaHLO9Qyn1CKZEDCGQ&#34; target=&#34;_blank&#34;&gt;ML4AD 2020 Workshop Proposal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;Workshops often have a few types of events, like keynote talks and poster sessions, and possibly lightning talks, panels / debates, and competitions, spread out over a full day. This variety can make the workshop interesting and engaging to attendees. On the day, you’ll never stay perfectly on schedule (e.g. speakers might run over time), so ensure you have some coffee breaks interspersed throughout the day to prevent scheduling delays accumulating too much. Try to avoid last minute changes, but if you have no choice, make sure any schedule updates are reflected in both your workshop website and any conference apps/portals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Posters (2+ hours):&lt;/strong&gt;
+&lt;em&gt;Posters are the main event of your workshop!&lt;/em&gt; Attendees care about their ability to meet others, discuss their work, and discover new research ideas early on, all of which is possible with poster sessions. So schedule sufficient time for posters, they are not an afterthought. Organizers often underestimate how much poster time will work well. On paper, 1–1½ hours of posters might look like a lot, but it is not. Poster sessions take time to build momentum, as audience members find food, coffee, and check messages after talks wrap up (possibly running overtime too). So expect a “40 minute poster session” equals 30 minutes of posters. If you have 20+ posters, aim for &lt;em&gt;2+ hours of posters&lt;/em&gt;. Once people get into the poster sessions, time will fly, and you won’t enjoy  breaking up all those interesting discussions prematurely because your schedule has some less-interactive event now starting. I usually schedule joint “posters and coffee” sessions, since people naturally look at posters during coffee—and vice versa—anyway. Consider having at least &lt;strong&gt;two poster sessions&lt;/strong&gt;, e.g. morning and afternoon (in case one conflicts with other conference events etc, and especially for virtual events, to cover different time zones).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lightning talks:&lt;/strong&gt;
+One optional idea is to allow each author to briefly present their work in 1–3 minutes, which serves as an advertisement to attendees to visit their poster during the poster session, assuming you do not have too many authors. This can be more helpful for virtual conferences, since they lack the same serendipity that real poster sessions offer in discovering new works. For smooth transitions between many brief talks, you can request pre-recorded videos for virtual conferences, or use a shared slide deck for in-person presentations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keynotes (4-8 speakers):&lt;/strong&gt;
+Scheduling 4–8 speakers is a good bet for full day workshops: you can easily allocate 30–45 minutes to each speaker (for talk + questions) this way and still have time for other events like posters and panels. Schedule each speaker at least &lt;em&gt;10 minutes for questions&lt;/em&gt; so your audience can interact and engage with speakers properly. Interaction is what workshops are all about! Keep in mind speakers often go overtime too, so adequate question time helps act as a buffer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;
+sometimes conferences have multiple dates they run workshops on, and workshop chairs will ask for your preferred date. Now that many workshops are going back to a hybrid format with some people physically attending, try to avoid the last day of the conference, since some of those physically attending will leave early and you may have additional speaker scheduling constraints if they fly out that day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timezone alignment:&lt;/strong&gt;
+Hybrid or fully-virtual workshops pose extra benefits and challenges. More people are able to attend the event without traveling to the physical conference location, thus increasing your audience, but it can be difficult to satisfy attendee, speaker, and organizer constraints when scheduling events across many time zones. To make your workshop accessible to people from various time zones, consider breaking the schedule into multiple parts, for example by broad geographic location (e.g., Asia, Europe, Americas; &lt;a href=&#34;https://www.timeanddate.com/worldclock/meetingtime.html?p1=224&amp;amp;p2=195&amp;amp;p3=33&#34; target=&#34;_blank&#34;&gt;example planner&lt;/a&gt;), so that most attendees will have at least one workshop component at a convenient time. This is also where having selected a diverse set of organizers and speakers will pay off, since you can more easily ensure coverage of each workshop segment. You can even add &lt;a href=&#34;https://analytics.google.com/analytics/web/&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt; to your website to see the geographical distribution of interest in your workshop and select times friendly to where the interest is.&lt;/p&gt;
+
+&lt;h1 id=&#34;timeline&#34;&gt;Timeline&lt;/h1&gt;
+
+&lt;p&gt;Your workshop was approved, congrats! 🎉 Now the real work begins. Your next job is to set up a meeting with your conference co-organizers. The goal of the meeting is to finalize the role assignments and the important dates of your workshop’s timeline: the call for papers date → submission due date → reviewing dates → decision+notification date → camera-ready due date → workshop date. I recommend all deadlines be scheduled at 23:59 (11:59PM) “&lt;a href=&#34;https://en.wikipedia.org/wiki/Anywhere_on_Earth&#34; target=&#34;_blank&#34;&gt;Anywhere on Earth&lt;/a&gt;” timezone (AoE) to reduce confusion. After the meeting, you may also want to send an email to the confirmed speakers, confirming with them that the workshop is accepted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Call for papers:&lt;/strong&gt;
+Send out a call for papers as soon as you’ve updated your website with your workshop’s timeline, paper format, and submission portal. Post about your workshop sometime Tuesday–Thursday so more people notice it, and then follow up periodically with a few more online reminder posts in the lead up to the deadline (in case people miss the first one).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Submission date:&lt;/strong&gt;
+Set the submission deadline as late as possible to attract more papers and more &lt;em&gt;recent&lt;/em&gt; papers, while still giving enough time for reviewing and then the authors to organize visas after notification. Try to set the deadline &lt;em&gt;after&lt;/em&gt; the conference’s notification date to attract conference rejections too (which hopefully improve when submitted to your workshop). Many authors of rejected conference papers still want to attend the conference regardless and submitting to your workshop might still be reason enough for their lab to fund them to go. Avoid setting deadlines that fall on a weekend or common holiday.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notification date:&lt;/strong&gt;
+If a physical workshop, make sure to set your notification date so authors have enough time to get visas. Some conferences set a “latest date” to notify authors in their call for workshops. Some workshops have “early bird” prices: consider setting workshop decision/notification date to be before the early bird prices stop so authors have a chance to save money. Soon after the notification date (or concurrently) you’ll want to decide on contributed / spotlight talks (if any) so authors have time to prepare.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second submission date?&lt;/strong&gt;
+Since selecting a single submission date is an unfortunate compromise between having adequate visa processing time and attracting more papers, some workshops have two rounds of submissions instead. This could be planned, with both submission deadlines advertised together in advance, or an unplanned “deadline extension” if your workshop doesn&amp;rsquo;t receive many submissions initially. A second deadline helps attract more papers. When NeurIPS began requiring early notification dates of all workshops in 2019, their biggest workshop (&lt;a href=&#34;https://sites.google.com/view/deep-rl-workshop-neurips-2019/cfp&#34; target=&#34;_blank&#34;&gt;Deep RL&lt;/a&gt;) started including a second call for “late-breaking” papers to attract arXiv submissions popping up after the first deadline. You can decide if late breaking papers should be held to the same standard as the first round of submissions, or if they should represent more exploratory work, maybe less mature with only partially validated preliminary results but nevertheless cutting edge, thought provoking, and novel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Outreach:&lt;/strong&gt;
+Schedule a set of announcements and reminders about your workshop to social media (Twitter, LinkedIn, Facebook, Instagram) to remind people about your workshop beyond a one-and-done call for papers that people might forget about. Consider assigning the role of “social media czar” to one of your co-organizers so you know it will get done reliably.&lt;/p&gt;
+
+&lt;h3 id=&#34;jpg-ml4ad-jpg&#34;&gt;&lt;img src=&#34;./ml4ad.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;speakers&#34;&gt;Speakers&lt;/h1&gt;
+
+&lt;h2 id=&#34;speaker-selection&#34;&gt;Speaker Selection&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;How Many?&lt;/strong&gt;
+A common mistake new organizers make is inviting too many speakers. Ten speakers might impress those reviewing your proposal, but isn’t necessarily what’s best for your audience. For a full day workshop, 4–8 speakers is good, just ensure you allocate sufficient time for posters. Poster sessions should not be squeezed into your schedule between too many speakers as an afterthought since &lt;em&gt;poster sessions are the main event of your workshop!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Big Names:&lt;/strong&gt;
+Inviting big name speakers is a trade off. Big names can draw big crowds with their brand. However, big names with big responsibilities are more likely to cancel at the last minute when something else more important comes up, or simply repeat a previous talk if they are busy. Exceptions exist of course, some folk are very reliable. So consider only 1–2 big names if you want a larger crowd without taking on excessive risk, and consider scheduling them as “bookends” in your schedule, i.e. last morning speaker and last afternoon speaker, to maximize attendance throughout the day, while minimizing risk: if they cancel, you just finish that session early, avoiding a major schedule disruption. Most invites should ideally be to high-quality, engaged, and “undiscovered” junior researchers. For instance, junior faculty, postdocs, even senior-PhDs; as they are more reliable, more responsive, closer to the tech, and your workshop can have a greater impact on their career while they try to establish themselves, their students, and their labs within the academic community (this is part of your positive impact on the evolving community). Note: some call for workshops list selection criteria including “quality of proposed invited speakers” (NeurIPS language). “Quality” does not mean popular, it means inviting those who can present interesting and impactful scientific discoveries. So consider writing a short summary on each speaker in your workshop proposal giving links to their website, works, and any past talks to support your selection. On the flip side, try to warn brand-new faculty against rehashing their recent job talks since we want more depth, less breath, in our workshop talks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fresh Faces:&lt;/strong&gt;
+To encourage fresh ideas and fresh faces, I follow a simple rule: no speaker gets reinvited back to the same workshop series. Or if this is a new workshop topic, check who spoke at related workshops in other conferences recently, and select different speakers. This doesn’t always happen, since other organizers have a say too, but I think it’s a nice rule to challenge yourself to seek out speakers you weren’t previously aware of and increase diversity of ideas. Having organizers from different institutions and different nations will help generate a wider set of initial speaker suggestions initially too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diversity:&lt;/strong&gt;
+Diversity is important to the community and conference organizers now take this more seriously. Beyond better representing the community and promoting inclusiveness, diversity is a critical selection criteria for workshops, meaning diversity in gender, race, geographic location, subspeciality, and career stage. So think about the set of speakers you want your workshop to have, not just each speaker individually. Optimizing for a set of speakers might require staggered invites as some will agree to speak and some will disagree, so give yourself enough time (4–6 weeks) before the workshop-submission deadline to send out multiple invitation waves to get your confirmed speaker set you can add into your proposal.&lt;/p&gt;
+
+&lt;h2 id=&#34;speaker-invitations&#34;&gt;Speaker Invitations&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Let newer organizers invite speakers:&lt;/strong&gt;
+It’s nice to let newer organizers invite speakers (cc’ing all other organizers) to have a chance at making new connections and build rapport with speakers who might be further along career-wise. If other organizers know the speaker well, they can always chime in afterwards with “hope you can make it Steph!” etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Add a “respond by” date:&lt;/strong&gt;
+When inviting speakers, some don’t respond. If you assume that’s a “no”, and invite someone else as replacement, will the original invitee respond “yes” later? To avoid any awkward situations, add a “please respond by {day, date}” when you send invitations, leaving sufficient time before the proposal is due to invite other speakers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Industry speakers:&lt;/strong&gt;
+If you invite industry speakers to your academic workshop, clarify that this is not a marketing pitch and ask that they only accept if they are able to speak about recent technical content. Sounds obvious, but not to everyone. Your audience won’t appreciate a surprise PR show with flashy videos and vague statements about futuristic technology, they want technical detail. Note that many industry speakers require getting their talk approved. So it’s good to ask early, so they can start preparing and getting their talk approved in time for the workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keeping in touch:&lt;/strong&gt;
+There may be many months between the initial invite and the workshop event. It can be good to occasionally keep them updated with relevant developments (like when your workshop is selected, and when the conference selects which date your workshop will be). Writing update emails to speakers can be a good excuse to remind them of your call for papers (if it’s been called yet) and invite them or their lab to submit works too. Since they are now a part of your workshop, they are more likely to submit papers too.&lt;/p&gt;
+
+&lt;h1 id=&#34;panel&#34;&gt;Panel&lt;/h1&gt;
+
+&lt;p&gt;You might consider adding a 30–60 minute panel discussion event to your workshop, where you invite keynote speakers back to discuss (or debate) the current state of research. A good panel discussion is both informative and entertaining. To be &lt;strong&gt;informative&lt;/strong&gt;: you want to help people to understand the technical research landscape better, especially newer researchers trying to work out a direction. So consider posing the following questions to the panel:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;When should we use method A over B?&lt;/li&gt;
+&lt;li&gt;What are better ways of thinking about current problems on this topic?&lt;/li&gt;
+&lt;li&gt;What problems are important but currently underexplored (i.e. what research directions might new students and researchers consider pursuing now)?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It can also be fun to poll the community about which discussion topics they would like to see. For example, you can post a poll on twitter about different debate topics.&lt;/p&gt;
+
+&lt;p&gt;Panels can also be &lt;strong&gt;entertaining&lt;/strong&gt;. An &lt;em&gt;experienced moderator is important&lt;/em&gt; here, who understands the right questions to ask, to encourage a healthy amount of opinion, jest, and rivalry among competing popular ideas in the field to keep the panelists and audience engaged. Make sure to include the moderator as one of the established organizer roles. A nice format the &lt;a href=&#34;http://bayesiandeeplearning.org/&#34; target=&#34;_blank&#34;&gt;Bayesian deep learning workshop&lt;/a&gt; employed was inviting Yann LeCun as the “Anti-Bayesian” voice to play devil&amp;rsquo;s advocate, disrupting the Bayesians’ echo chamber and (respectfully) challenging other panelists on their fundamental assumptions about Bayesianism and suggesting alternatives to their favorite methods. It makes for a fun and lively debate with points made both philosophical and pragmatic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Industry panelists:&lt;/strong&gt;
+Not every industry speaker can speak as freely on certain topics as academic speakers can. Often industry speakers require their internal legal or PR teams to approve their talks and slides in advance, but cannot pre-approve unknown panel questions. So be wary of having too many industry speakers on your panel if your workshop topic centers on an &lt;em&gt;application&lt;/em&gt;, or at least ask them what their constraints are in advance.&lt;/p&gt;
+
+&lt;h3 id=&#34;jpg-carl-jpg&#34;&gt;&lt;img src=&#34;./carl.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
+
+&lt;h2 id=&#34;call-for-papers&#34;&gt;Call for Papers&lt;/h2&gt;
+
+&lt;p&gt;There are multiple ways to call on the community to submit papers to your workshop:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Social&lt;/strong&gt; (Twitter, LinkedIn, Facebook, Instagram)
+
+&lt;ul&gt;
+&lt;li&gt;Images go great with posts, they are more noticeable. You could use a graphic that represents your workshop’s theme or an image of your confirmed speakers.&lt;/li&gt;
+&lt;li&gt;Tag your speakers and co-organizers, they often want to share and promote it.&lt;/li&gt;
+&lt;li&gt;Tag the host conference in your call for papers post too, using their hashtag or handle  (e.g. ICRA’s are &lt;a href=&#34;https://twitter.com/hashtag/ICRA2022&#34; target=&#34;_blank&#34;&gt;#ICRA2022&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/ieee_ras_icra&#34; target=&#34;_blank&#34;&gt;@ieee_ras_icra&lt;/a&gt;). Conferences often like sharing these to all the conference attendees to promote your workshop.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mailing lists:&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://groups.google.com/g/ml-news&#34; target=&#34;_blank&#34;&gt;ML news&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.robotics-worldwide.org/&#34; target=&#34;_blank&#34;&gt;Robotics Worldwide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blackinai.github.io/&#34; target=&#34;_blank&#34;&gt;Black in AI&lt;/a&gt; (see &amp;ldquo;share opportunities&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://groups.google.com/g/women-in-machine-learning&#34; target=&#34;_blank&#34;&gt;Women in ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/queer-in-ai/&#34; target=&#34;_blank&#34;&gt;Queer in AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;community@mailing.eu-robotics.net&#34; target=&#34;_blank&#34;&gt;Europe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Institutions:&lt;/strong&gt; Advertising within each organizer’s lab, university, or company.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Individuals&lt;/strong&gt; you know would be interested.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;paper-format&#34;&gt;Paper Format&lt;/h2&gt;
+
+&lt;p&gt;I often copy style files that the conference papers use, editing slightly with a footer that says it’s our workshop. Example &lt;a href=&#34;https://ml4ad.github.io/files/neurips_2021_ml4ad.sty&#34; target=&#34;_blank&#34;&gt;style file&lt;/a&gt;, &lt;a href=&#34;https://ml4ad.github.io/files/neurips_2021_ml4ad.tex&#34; target=&#34;_blank&#34;&gt;tex template&lt;/a&gt;, and &lt;a href=&#34;https://ml4ad.github.io/files/neurips_2021_ml4ad.pdf&#34; target=&#34;_blank&#34;&gt;resultant pdf&lt;/a&gt;, stating: &lt;em&gt;“we welcome papers up to 8 pages (max) not including references or appendix, as a single PDF”&lt;/em&gt;, and set CMT to only allow one PDF upload per submission (easier for everyone if appendix isn’t separate).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Extended abstracts:&lt;/strong&gt;
+Whatever format you choose, consider allowing &lt;strong&gt;4-page submissions&lt;/strong&gt; (“extended abstracts”). This is because the dual/double submission policy at some computer vision conferences include peer-reviewed workshop papers &lt;em&gt;exceeding&lt;/em&gt; 4 pages (e.g. see &lt;a href=&#34;https://cvpr2022.thecvf.com/author-guidelines&#34; target=&#34;_blank&#34;&gt;CVPR&lt;/a&gt; or &lt;a href=&#34;https://eccv2022.ecva.net/submission/call-for-papers/&#34; target=&#34;_blank&#34;&gt;ECCV&lt;/a&gt; rules). Extended abstracts allow authors to submit preliminary results to your workshop before a conference submission, which are the types of papers you want: exciting up-and-coming ideas that might not even be on arxiv yet.&lt;/p&gt;
+
+&lt;h2 id=&#34;submissions&#34;&gt;Submissions&lt;/h2&gt;
+
+&lt;p&gt;If you expect 15+ submissions, then use a submission portal to keep track of everything. Options include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmt3.research.microsoft.com/&#34; target=&#34;_blank&#34;&gt;Conference Management Toolkit&lt;/a&gt; (see &lt;a href=&#34;https://cmt3.research.microsoft.com/docs/help/overview/tasks.html&#34; target=&#34;_blank&#34;&gt;how-to guide&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openreview.net/&#34; target=&#34;_blank&#34;&gt;OpenReview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://easychair.org/&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Single blind or double blind?&lt;/strong&gt;
+Single blind means camera-ready submission can be optional or non-existent if you want to create less work for authors. Double blind is probably more fair.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Archival or non-archival?&lt;/strong&gt;
+An archival or formally published workshop proceedings often precludes authors from submitting an extended version of the same work to a more formal venue such as a conference or journal. Some authors therefore ask about this so I usually specify on the website that &lt;em&gt;“no submission will be indexed nor have archival proceedings”&lt;/em&gt;. In some situations, you may invite submission for both proceedings and non-proceedings. For example, full-length papers go to proceedings, extended abstracts go to non-proceedings.&lt;/p&gt;
+
+&lt;h2 id=&#34;reviewing&#34;&gt;Reviewing&lt;/h2&gt;
+
+&lt;p&gt;Reviewing submitted papers is optional. I usually provide reviews since feedback is helpful to authors, but not all workshops do. Some workshops like &lt;a href=&#34;https://sites.google.com/view/deep-rl-workshop-neurips2021&#34; target=&#34;_blank&#34;&gt;Deep RL&lt;/a&gt; are stopping the practice, and were already lightweight in previous years, largely checking for fit, there being actual content, and a selection of stronger papers for longer presentations. Such lightweight reviewing is more lenient, only rejecting poor or off-topic submissions, corresponding to an acceptance rate of about 90%. Detailed reviewing is more valuable to authors but places more burden on reviewers and can be less practical for larger workshops to provide reviews of consistent quality. If you wish to provide reviews, consider recruiting a &lt;em&gt;program committee&lt;/em&gt; (aka reviewers) if you expect 15+ papers, otherwise the organizers can review the papers themselves.&lt;/p&gt;
+
+&lt;h3 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Be courteous:&lt;/strong&gt;
+To invite people to help review, I find people are much more likely to respond to a personalized invite from a human rather than an automated email from your submission portal. So I usually reach out to people first to ask, and add them into a reviewing system like &lt;a href=&#34;https://cmt3.research.microsoft.com/&#34; target=&#34;_blank&#34;&gt;CMT&lt;/a&gt; once they accept and are expecting automated emails (I learned this from Pieter Abbeel, his individual invites to review for the &lt;a href=&#34;https://sites.google.com/view/deep-rl-workshop-neurips2021&#34; target=&#34;_blank&#34;&gt;Deep RL&lt;/a&gt; workshop were always so polite, I couldn’t say no!). When writing the email, I explain what I’m trying to do, and ask if they’d like to help review. They are busy, and this is “only” a workshop—not a conference—so promise only 1–3 reviews per reviewer (not more than 3) to keep it light, hopefully even fun. Keeping your committee happy means they’ll likely agree to help in future years too. You can also cc your co-organizers on the email to increase the recognition each reviewer receives, though if sending many reviewer invites then consider scheduling the emails to send at the same specific time (gmail can do this) to avoid distracting your co-organizers with a slow trickle of emails.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How many reviewers?&lt;/strong&gt;
+Aim for 3 reviews per paper so that the majority of papers receive 2–3 reviews. That means inviting about as many reviewers as expected submissions. Tell them the reviewing dates, and follow up with 1–2 polite reminders as the due date approaches to those yet to review. If you do this, only a minority of submissions will receive 0–1 reviews. Many reviewers only do reviews close to the actual deadline, so if you schedule a couple days between the reviewing due date and the notification date, then you can give late reviewers a little more time if they ask for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emergency reviewers:&lt;/strong&gt;
+In anticipation of some papers with 0–1 reviews, you can recruit some “emergency reviewers” in advance to be “on call” for the couple days prior to paper decisions, so that every paper can have at least 2 reviews by the time you made your acceptance/rejection decisions. And if all else fails, &lt;em&gt;you&lt;/em&gt; review the papers with fewer than 2 reviews.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Set expectations:&lt;/strong&gt;
+You want to attract novel ideas that are scientifically interesting, on topic, and would create interesting discussions at the workshop. No need to be super critical of experimental results. Workshop papers are not conference papers so communicate to reviewers the criteria you’re looking for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reviewer questions:&lt;/strong&gt;
+Reviewing shouldn’t be laborious for your program committee, so consider limiting the amount of long-answer fields. If you use CMT, you can customize the review form and add instructions to each field. You even can add the reviewing rubric to your website (&lt;a href=&#34;https://ml4ad.github.io/img/review-questions.png&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;) to help answer submitters’ questions like “my paper contains ABC, but not XYZ, is this good enough for a submission?”. Consider including a score on reviewer confidence too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper matching:&lt;/strong&gt;
+To match reviewers to papers, several tools are available. CMT has some &lt;a href=&#34;https://cmt3.research.microsoft.com/docs/help/chair/reviewer-suggestion.html&#34; target=&#34;_blank&#34;&gt;options&lt;/a&gt; including random allocation, bidding, or using the &lt;a href=&#34;https://cmt3.research.microsoft.com/docs/help/chair/tpms.html&#34; target=&#34;_blank&#34;&gt;Toronto Paper Matching System&lt;/a&gt;. Proper matching benefits are nice for authors and reviewers alike, especially if your topic is broad, or is an &lt;em&gt;application&lt;/em&gt; (not method) of AI. For small workshops, bidding is probably overkill and takes time, so I manually match reviewers, by looking up their google scholar to classify their expertise in a spreadsheet, then classify the papers into clusters of subtopics on the same spreadsheet, then match like-to-like. Systems like CMT help avoid certain conflicts of interest by preventing you from accidentally matching an author and reviewer from the same institution.&lt;/p&gt;
+
+&lt;h2 id=&#34;decisions&#34;&gt;Decisions&lt;/h2&gt;
+
+&lt;p&gt;You can set the bar for acceptance however you like. Generally workshop decision thresholds are more lenient than conferences, resulting in the acceptance of 50–90% of submissions. I usually aim for three reviews per paper, and then make decisions based on the three reviewer ratings as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No accept ratings = reject&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; accept ratings = investigate, read reviews thoroughly, organizer makes decision&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; accept ratings = probably accept (check review that rated submission as reject)&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; accept ratings = accept&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Keep in mind some reviewers will review in “conference mode” as if these were conference papers, despite any expectations you set initially. Workshop papers are not conference papers (yet). You want to attract &lt;strong&gt;new, scientifically interesting ideas&lt;/strong&gt;; even if the experimental results are premature, or don’t outperform SOTA, or even compare to it yet. So if the idea is on-topic and novel, consider dismissing any reject ratings that were based on lackluster experimental results and comparisons. And finally, if after all that, your count of accepted papers is lower than what you would like, you can do it all again with a &lt;em&gt;second call for papers&lt;/em&gt;! Assuming you have time, that is. A second late round isn’t as useful for people who need time for visas, but it’ll increase the average recency of ideas at your workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notification:&lt;/strong&gt;
+Once you’ve decided which papers to accept and reject, then notify the authors by your promised notification date (which should be on your website). If papers were reviewed, make sure the reviews are viewable by the authors and remind them of the link so they can use the feedback to improve their camera-ready paper if accepted or some other venue if rejected.&lt;/p&gt;
+
+&lt;h1 id=&#34;competitions&#34;&gt;Competitions&lt;/h1&gt;
+
+&lt;p&gt;You could consider integrating a competition or “challenge” into your workshop. There are two ways to do this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You can &lt;strong&gt;organize a competition&lt;/strong&gt; yourself, which requires significant effort; but you retain control, gain recognition, and it can be a great way to launch some new benchmark or dataset you collected and wish to popularize and share. Common competition hosting platforms to use for algorithm evaluation are &lt;a href=&#34;https://www.aicrowd.com/&#34; target=&#34;_blank&#34;&gt;AIcrowd&lt;/a&gt;, &lt;a href=&#34;https://codalab.lisn.upsaclay.fr/&#34; target=&#34;_blank&#34;&gt;CodaLab&lt;/a&gt;, &lt;a href=&#34;https://eval.ai/&#34; target=&#34;_blank&#34;&gt;EvalAI&lt;/a&gt;, and &lt;a href=&#34;https://www.kaggle.com/&#34; target=&#34;_blank&#34;&gt;Kaggle&lt;/a&gt;. For examples, see the &lt;a href=&#34;https://cvpr2021.thecvf.com/workshops-schedule&#34; target=&#34;_blank&#34;&gt;CVPR workshops&lt;/a&gt; such as &lt;a href=&#34;https://embodied-ai.org/#challenges&#34; target=&#34;_blank&#34;&gt;Embodied AI&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Alternatively, you can &lt;strong&gt;host a competition&lt;/strong&gt;: invite some group who was hoping to run a related competition anyway and link it up with your workshop (what I do). Hosting should be mutually beneficial: competition organizers are often looking for venues (and sometimes legitimacy) to showcase their winners’ methods and you might be looking for more ways people can engage with your event. Some workshops host &lt;em&gt;multiple&lt;/em&gt; competitions, but do consider if your audience really benefits from sitting through multiple competition explanations and award ceremonies. Your audience may prefer more talks or poster time instead.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Competitions are &lt;em&gt;optional&lt;/em&gt;, common at computer vision workshops, but not expected. As an idea, in 2021, 54% of &lt;a href=&#34;https://cvpr2021.thecvf.com/workshops-schedule&#34; target=&#34;_blank&#34;&gt;CVPR&lt;/a&gt; workshops either hosted or organized a competition, compared to 2% at &lt;a href=&#34;https://neurips.cc/Conferences/2021/Schedule?type=Workshop&#34; target=&#34;_blank&#34;&gt;NeurIPS&lt;/a&gt; (machine learning), and 0% at &lt;a href=&#34;https://roboticsconference.org/2021/program/workshops/index.html&#34; target=&#34;_blank&#34;&gt;RSS&lt;/a&gt; (robotics). But that doesn’t mean you can’t incorporate a competition into your own ML or robotics workshop! Our &lt;a href=&#34;https://ml4ad.github.io/&#34; target=&#34;_blank&#34;&gt;ML4AD&lt;/a&gt; was the only NeurIPS workshop to host a competition but we found it rewarding to offer an additional way to engage with our workshop beyond papers and posters without requiring too much of our effort.&lt;/p&gt;
+
+&lt;p&gt;Some conferences host competitions themselves (e.g., NeurIPS has a &lt;a href=&#34;https://neurips.cc/Conferences/2022/CallForCompetitions&#34; target=&#34;_blank&#34;&gt;Call for Competitions&lt;/a&gt;). This does not mean that your workshop cannot host its own competition too, it’s a decision for the competition organizers. You won’t benefit much from collaborating with competitions that you are not hosting. If they are strongly on-topic and ask to talk or advertise at your workshop, you could give them 10–15 mins. If you host the competition, then your workshop benefits by bringing their crowd to your venue.&lt;/p&gt;
+
+&lt;h3 id=&#34;jpg-carla-jpg&#34;&gt;&lt;img src=&#34;./carla.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;event&#34;&gt;Event&lt;/h1&gt;
+
+&lt;h2 id=&#34;before-the-workshop&#34;&gt;Before the Workshop&lt;/h2&gt;
+
+&lt;p&gt;My checklist:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Organizer presence:&lt;/strong&gt; Check which organizers will attend the conferences (especially for physical ones) and stay the whole day. Ensure you have a minimum 2, ideally 3+.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prepare introductions&lt;/strong&gt; for each speaker (their bio) for a warm introduction and smooth transitions between speakers. If you are unsure how to pronounce their name, ask them privately in advance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obtain any consent+release forms&lt;/strong&gt; (permission to record) from speakers supplied to you by any recording groups the conference uses (if any) like SlidesLive&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print messages:&lt;/strong&gt; To stay on schedule, help speakers avoid going overtime by bringing printed numbers that you can hold up to inform them how many minutes they have left&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print schedules&lt;/strong&gt; to pin up outside the room (so conference attendees walking outside can check when they might want to join)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spare stuff:&lt;/strong&gt; Bring spare AV adaptors including Apple adaptors, since AV issues often arise on the day, and spares are useful. Also bring your laptop, USB drives; and spare tape and push pins for posters.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backup questions:&lt;/strong&gt; Prepare “backup questions” for each keynote or spotlight speaker. When each speaker concludes their talk, you’ll invite questions from the audience, but sometimes they cannot think of anything to ask initially. In such cases, it’s great to have some questions pre-prepared. You can prepare by watching speakers&amp;rsquo; talks in advance if recorded, or reading their recent on-topic papers in advance.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;day-of-the-workshop&#34;&gt;Day of the Workshop&lt;/h2&gt;
+
+&lt;p&gt;It is likely that something will go wrong on the day of your workshop. Redundancy helps here. So have &lt;em&gt;multiple&lt;/em&gt; organizers attending the workshop to deal with issues together. If virtual, one of you may lose internet connection, so have 2+ organizers online at any one time. If in-person, carry a spare laptop, AV adapters, and USB drive in case speakers have equipment issues. I Have a private schedule with the other organizers who will be the master of ceremonies (MC) when, and who will be watching on standby as “backup MC” ready to take over within a few seconds if something goes wrong (like the MC losing internet connection).&lt;/p&gt;
+
+&lt;p&gt;My checklist: arrive early and&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Reserve front seats&lt;/strong&gt; for organizers + speakers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Greet the audio-visual staff&lt;/strong&gt; to understand how everything will work, and explain any signals they’ll be gesturing toward you from the back when you’re up at the front talking during the day. There’s often AV issues on the day (a speaker doesn’t have the right adapter etc) and the AV team is critical here, so it’s good to get to know them, and thank them at your workshop’s conclusion.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;poster-sessions&#34;&gt;Poster Sessions&lt;/h3&gt;
+
+&lt;p&gt;Attend your own workshop! Go chat to authors during the poster sessions and learn about their work. As an organizer, I recommend visiting posters that are not receiving as much attention. People are social, and crowds assume &lt;a href=&#34;https://en.wikipedia.org/wiki/Social_proof&#34; target=&#34;_blank&#34;&gt;social proof&lt;/a&gt; that certain posters are better if people are there, creating unequal distributions of crowded posters and lonely posters. You can counteract this bias by visiting less populated posters, which will attract others.&lt;/p&gt;
+
+&lt;h3 id=&#34;talks&#34;&gt;Talks&lt;/h3&gt;
+
+&lt;p&gt;Even if you prepared “backup questions” for each speaker in advance, for non-recorded talks, you’ll want at least one organizer (the MC) to be paying attention to each speaker during the event to think of backup questions live. If no one asks a question, then you can ask your backup question. Questions beget questions too, it will warm up the audience. This is especially helpful for virtual conferences. Virtual attendees often prefer &lt;em&gt;typing&lt;/em&gt; questions too, so remind the audience they can type their questions into the Zoom chat or question field &lt;em&gt;during&lt;/em&gt; the talk, so you can immediately begin the Q&amp;amp;A.&lt;/p&gt;
+
+&lt;h2 id=&#34;after-the-workshop&#34;&gt;After the Workshop&lt;/h2&gt;
+
+&lt;p&gt;After the event, there’s several options to consider&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Thank audio-visual staff:&lt;/strong&gt; After the workshop, thank the audio-visual staff and consider adding their names to the website. They do much critical work behind the scenes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Get feedback&lt;/strong&gt;, e.g., via a link on your website or email to improve next year (&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeisp7Ga5ZnOPTg2VnRMB6XJbZpriml-LwmWzapgGBeqgoHOA/viewform&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dinner:&lt;/strong&gt; You can organize a dinner for the speakers and (if you have them) sponsors. This is nice for the speakers, and a good opportunity to get to know them better. It can be a bit pricey to buy a dinner for ~10 people, but one of your sponsors may be happy to pay the bill. Have some time between the workshop end and dinner though, people often want a break, or want to chat to others after the workshop instead of rushing off to dinner straight away.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link recordings to the website.&lt;/strong&gt; It’s nice for speakers to have public links to their talks and for others who couldn’t make your event to see.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summarize submissions:&lt;/strong&gt; Some organizers like writing up a paper or blog or website to summarize the workshop, something easily spread on social media.  E.g. a teaser figure and short description and links for each paper. This helps give further publicity to workshop papers and the workshop itself. One group actually &lt;a href=&#34;https://wovenplanetlevel5.medium.com/neurips-2019-digest-feeae8be396d&#34; target=&#34;_blank&#34;&gt;wrote a blog&lt;/a&gt; summarizing my own workshop without me which was amusing. At ICCV we wrote a &lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Fan_Autonomous_Vehicle_Vision_2021_ICCV_Workshop_Summary_ICCVW_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;summary paper&lt;/a&gt; after the event. Most workshops do not bother with this, this is &lt;em&gt;very&lt;/em&gt; optional.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
+
+&lt;p&gt;You’ll need a webpage, to summarize the speakers, schedule, and how to submit papers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt;
+Not all websites are accessible to everyone. &lt;a href=&#34;https://sites.google.com/&#34; target=&#34;_blank&#34;&gt;Google Sites&lt;/a&gt; is very easy to use, but not accessible in China. &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; is a little harder to use, but accessible in more countries.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Custom URLs:&lt;/strong&gt; Alternatively, you can provide custom URLs to make certain sites accessible. For example &lt;a href=&#34;https://www.icra2022av.org&#34; target=&#34;_blank&#34;&gt;https://www.icra2022av.org&lt;/a&gt; (accessible in China) is actually this website under the hood &lt;a href=&#34;https://sites.google.com/view/icra2022av/home&#34; target=&#34;_blank&#34;&gt;https://sites.google.com/view/icra2022av/home&lt;/a&gt; (inaccessible in China), so we just communicate the .org domain version. You can do this by going to your google site, then settings→ custom domains → add → buy a domain (~$12 a year).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Github or Google Sites?:&lt;/strong&gt; An advantage of google sites: quick to create + upkeep, for anyone in team. Advantage of github: get more control on appearance and enable javascript. For example, people can get confused with timezones, so I always use the “Anywhere on Earth” (AoE) timezone, and include a &lt;a href=&#34;#submission-countdown&#34;&gt;javascript countdown&lt;/a&gt; so people know exactly when the deadline is, or linking to &lt;a href=&#34;https://time.is/Anywhere_on_Earth&#34; target=&#34;_blank&#34;&gt;https://time.is/Anywhere_on_Earth&lt;/a&gt;. For github I used &lt;a href=&#34;https://github.com/jweslley/hugo-conference&#34; target=&#34;_blank&#34;&gt;this template&lt;/a&gt; which &lt;a href=&#34;https://jweslley.github.io/hugo-conference&#34; target=&#34;_blank&#34;&gt;looks like this&lt;/a&gt; initially, which I change to &lt;a href=&#34;https://ml4ad.github.io/&#34; target=&#34;_blank&#34;&gt;look like this&lt;/a&gt;. Or use GitHub Pages which is simpler, looks like &lt;a href=&#34;https://meta-learn.github.io/2021/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;; or &lt;a href=&#34;http://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;http://jekyllrb.com/&lt;/a&gt; which looks like &lt;a href=&#34;https://learn-to-race.org/workshop-ai4ad-ijcai2022/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;. An advantage of github is you can upload and host papers directly on your website.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other:&lt;/strong&gt; You could also host and manage websites using &lt;a href=&#34;https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html&#34; target=&#34;_blank&#34;&gt;Amazon S3&lt;/a&gt; buckets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Timezone help:&lt;/strong&gt;
+To help virtual attendees avoid doing timezone conversations themselves, you can display the time of each section of the workshop in multiple major time zones on your website’s schedule, or use javascript to display event times in the attendee&amp;rsquo;s local timezone (&lt;a href=&#34;./#display-schedule-events-in-user-s-timezone&#34;&gt;example&lt;/a&gt;). You can also include an ICS-formatted calendar they can download too (&lt;a href=&#34;https://aiforspace.github.io/2021/#program&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;). Or assuming most people use Google Calendar, you can add one-click per-event invites. To do this, first add a new workshop calendar, then click calendar options →check “Make available to public” check true (&lt;a href=&#34;https://webapps.stackexchange.com/questions/108094/google-calendar-link-is-not-working-after-publish-event&#34; target=&#34;_blank&#34;&gt;details&lt;/a&gt;). Second, publish each event individually (click three dots for the Options menu, click “Publish event”, copy “Link to event”). Another alternative when using a github webpage, is to include a javascript &lt;a href=&#34;./#display-live-venue-time-in-schedule&#34;&gt;“venue time” clock&lt;/a&gt; (local time at the venue) on the schedule.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Helpful Tips / FAQ:&lt;/strong&gt;
+If the workshop is physical, I often like to add suggestions where authors can print their posters near the venue (easier for one person googling this than 50). Some workshops even include poster templates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Streaming:&lt;/strong&gt;
+Add a streaming link on your website if the conference allows it. For example, you can stream your Zoom meeting on YouTubeLive.&lt;/p&gt;
+
+&lt;h2 id=&#34;virtual-tools&#34;&gt;Virtual Tools&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Streaming talks:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://slideslive.com/&#34; target=&#34;_blank&#34;&gt;SlidesLive&lt;/a&gt; (&lt;a href=&#34;https://slideslive.com/neurips-2021/workshop-machine-learning-for-autonomous-driving&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/&#34; target=&#34;_blank&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zoom.us/pricing&#34; target=&#34;_blank&#34;&gt;Zoom Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;YouTubeLive (note you must sign up for this at least 24 hours in advance: it takes 24 hours exactly between you requesting to stream with Youtube and it being enabled)&lt;/li&gt;
+&lt;li&gt;Via Zoom (&lt;a href=&#34;https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live&#34; target=&#34;_blank&#34;&gt;instructions&lt;/a&gt;) (&lt;a href=&#34;https://www.youtube.com/channel/UCXFtpDoBBHUig1mH6XhDEFg/videos&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Streaming talks without interaction
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.crowdcast.io/&#34; target=&#34;_blank&#34;&gt;CrowdCast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/formedia/tools/facebook-live&#34; target=&#34;_blank&#34;&gt;Facebook Live&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Streaming questions&lt;/strong&gt; with upvoting + moderation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sli.do/&#34; target=&#34;_blank&#34;&gt;Slido&lt;/a&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=3jMf_BnZ1B8&#34; target=&#34;_blank&#34;&gt;how-to video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pigeonholelive.com/&#34; target=&#34;_blank&#34;&gt;Pigeonhole Live&lt;/a&gt; (&lt;a href=&#34;https://pigeonholelive.com/videos/&#34; target=&#34;_blank&#34;&gt;how-to videos&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mentimeter.com/&#34; target=&#34;_blank&#34;&gt;Mentimeter&lt;/a&gt; (&lt;a href=&#34;https://youtu.be/eyX0FV7a3kk&#34; target=&#34;_blank&#34;&gt;how-to video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.zoom.us/hc/en-us/articles/203686015-Getting-Started-with-Question-Answer&#34; target=&#34;_blank&#34;&gt;Zoom Q&amp;amp;A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slack&lt;/li&gt;
+&lt;li&gt;RocketChat (used at ICLR)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Poster Sessions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gather.town/&#34; target=&#34;_blank&#34;&gt;Gather Town&lt;/a&gt; and &lt;a href=&#34;https://spatial.chat/&#34; target=&#34;_blank&#34;&gt;Spatial Chat&lt;/a&gt;: 2D avatar environments
+
+&lt;ul&gt;
+&lt;li&gt;Join by browser, no installation required.&lt;/li&gt;
+&lt;li&gt;Can upload poster images and link to videos (&lt;a href=&#34;https://app.gather.town/app/L7GvrCeQkElKAMBc/ml4ad_backup&#34; target=&#34;_blank&#34;&gt;our example&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Proximity-based audio+visuals to other avatars.&lt;/li&gt;
+&lt;li&gt;Gather Town is very popular, many people are used to it now.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hubs.mozilla.com&#34; target=&#34;_blank&#34;&gt;Mozilla Hubs&lt;/a&gt;, a 3D avatar environment (&lt;a href=&#34;https://hub.link/dxzApUU&#34; target=&#34;_blank&#34;&gt;our example&lt;/a&gt;) (&lt;a href=&#34;https://www.youtube.com/channel/UCb9kcMSN3arCG1oMLIiuLrA/videos&#34; target=&#34;_blank&#34;&gt;how-to videos&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;Join by browser, no installation required.&lt;/li&gt;
+&lt;li&gt;Posters should be imported as images, since pdf rendering is poor.&lt;/li&gt;
+&lt;li&gt;Use a larger font size than you would for a regular poster.&lt;/li&gt;
+&lt;li&gt;Importing videos renders well.&lt;/li&gt;
+&lt;li&gt;Used at &lt;a href=&#34;http://ieeevr.org/2020/online&#34; target=&#34;_blank&#34;&gt;IEEE-VR&lt;/a&gt; conference&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/microsoft-teams/group-chat-software&#34; target=&#34;_blank&#34;&gt;Microsoft Teams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hopin.com/&#34; target=&#34;_blank&#34;&gt;Hopin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Per-author Zoom links (generally a bad idea, lots of lonely rooms)&lt;/li&gt;
+&lt;li&gt;Or avoid poster sessions, change to short author talks, with general Q&amp;amp;A after.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;sponsorship&#34;&gt;Sponsorship&lt;/h1&gt;
+
+&lt;p&gt;Workshop sponsorship is &lt;em&gt;optional&lt;/em&gt;. Sponsors can contribute cash, cloud credits, or hardware. Some workshops use sponsorship to fund best paper awards. Although, I doubt prize amounts not exceeding the cost of travel provide extra motivation to submit. Researchers are already motivated to submit papers and often best-papers are won by well-funded labs already. In my opinion, it&amp;rsquo;s better to fund student travel awards based on financial need, to enable more people to attend your workshop or at least reduce the financial stress of doing so (&lt;a href=&#34;https://forms.gle/1rKdZqRzTy71cwNP8&#34; target=&#34;_blank&#34;&gt;example application&lt;/a&gt;). It helps create a more equal research community and can increase physical attendance. However, workshop sponsorship is often more trouble than it’s worth, for reasons below. An exception is for competitions, which usually need prizes to generate initial interest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warning: handling funds can be difficult.&lt;/strong&gt;
+If you have multiple sponsors, then holding funds together can be difficult. You cannot hold funds in your own personal bank account. You can open a new bank account, or you can ask a trusted third party like a university to hold funds for you, for a fee (e.g. Toronto might if you’re a student/staff there, Berkeley won’t unless the event is on campus). The easiest option I find is to ask sponsors to transfer to recipients directly without involving third parties. When companies want to sponsor using their corporate credit card, use PayPal. PayPal is the easiest way to make international card transactions to individuals, and works in almost every country. If the sponsor requests an invoice for internal accounting purposes, I use one of these &lt;a href=&#34;https://www.overleaf.com/gallery/tagged/invoice&#34; target=&#34;_blank&#34;&gt;templates&lt;/a&gt;. If the sponsor is US based, they might request collecting &lt;a href=&#34;https://www.irs.gov/pub/irs-pdf/fw9.pdf&#34; target=&#34;_blank&#34;&gt;W-9&lt;/a&gt; or &lt;a href=&#34;https://www.irs.gov/pub/irs-pdf/fw8ben.pdf&#34; target=&#34;_blank&#34;&gt;W-8BENE&lt;/a&gt; tax forms for US and non-US prize winners.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ensure fairness and consider sponsor constraints.&lt;/strong&gt;
+Hardware companies might sponsor by handing you a GPU or laptop at the event to hand to winners on stage (be careful during Covid though, some US companies can only &lt;em&gt;ship&lt;/em&gt; to certain regions: US/Canada/Europe/Africa, but not Asia, not even to Asia indirectly via your address, due to government sanctions). Whoever your sponsor is, be very clear about what their constraints are and what strings they want to attach in advance. For example, some sponsors stipulate the winner must be from a university. Also inquire if there are any nationalities they cannot transfer to (especially if they sponsor computer hardware as a prize), and if they cannot sponsor winners from certain nationalities that you’d expect at your workshop (e.g. because of sanctions or company policy), then drop the sponsor. Note: they may not exactly be upfront about these international constraints (bad PR), so you should inquire and verify. And they may be unwilling to say over email, but might tell you over video call. But if they ever tell you “check with us before you choose who to award the prize”, do not allow them to sponsor, as there is something that they are not telling you. You must ensure that your process of selecting prize winners is fair, and not conditional on unknown sponsor constraints.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other considerations.&lt;/strong&gt;
+Sponsors might also request &lt;em&gt;proof&lt;/em&gt; that prize recipients are in fact the competition or best-paper winners. Emails and websites might not count as proof, but event video recordings probably will. Find out in advance!&lt;/p&gt;
+
+&lt;h3 id=&#34;jpg-nothing-jpg&#34;&gt;&lt;img src=&#34;./nothing.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;appendix&#34;&gt;Appendix&lt;/h1&gt;
+
+&lt;h2 id=&#34;website-javascript&#34;&gt;Website JavaScript&lt;/h2&gt;
+
+&lt;h3 id=&#34;submission-countdown&#34;&gt;Submission Countdown&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;p&amp;gt;Submissions due: 1st January 2022 at 23:59 Anywhere on Earth: &amp;lt;span id=&amp;quot;countdown&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;script&amp;gt;
+  // Set the date we&#39;re counting down to
+  var countDownDate = new Date(&amp;quot;Nov 19, 2021 23:59:59 UTC&amp;quot;).getTime();  // enter time here in AoE
+  countDownDate = countDownDate + 1000 * 3600 * 12 // AoE = UTC - 12
+
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+
+    // Get today&#39;s date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now and the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Display the result in the element with id=&amp;quot;countdown&amp;quot;
+    var countdown = days + &amp;quot;d &amp;quot; + hours + &amp;quot;h &amp;quot; + minutes + &amp;quot;m &amp;quot; + seconds + &amp;quot;s &amp;quot;;
+
+    // If the countdown is finished, write some text 
+    if (distance &amp;lt; 0) {
+      clearInterval(x);
+      countdown = &amp;quot;Hurry, submissions closing soon!&amp;quot;;  // optional message if countdown expired
+    }
+
+    document.getElementById(&amp;quot;countdown&amp;quot;).innerHTML = countdown
+
+  }, 1000);
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;display-live-venue-time-in-schedule&#34;&gt;Display Live Venue Time in Schedule&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;p&amp;gt;All times are in Pacific Time. Current time is &amp;lt;span id=&amp;quot;pacifictime&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;script&amp;gt;
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+    var d = new Date();
+    var n = d.toLocaleTimeString(&amp;quot;en-US&amp;quot;, {timeZone: &amp;quot;America/Los_Angeles&amp;quot;, hour: &#39;2-digit&#39;, minute:&#39;2-digit&#39;, hour12: false})
+    document.getElementById(&amp;quot;pacifictime&amp;quot;).innerHTML = n
+  }, 1000);
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;display-schedule-events-in-user-s-timezone&#34;&gt;Display Schedule Events in User&amp;rsquo;s Timezone&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;p&amp;gt; Keynote talk by Alice at &amp;lt;span id=&amp;quot;keynote1_time&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; Keynote talk by Bob at &amp;lt;span id=&amp;quot;keynote2_time&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;script&amp;gt;
+  // specify schedule in UTC
+  const keynote1_utc = new Date(&#39;May 10, 2022 10:00 GMT+00:00&#39;);
+  const keynote2_utc = new Date(&#39;May 10, 2022 11:00 GMT+00:00&#39;);
+
+  // displays in the user&#39;s local timezone
+  document.getElementById(&amp;quot;keynote1_time&amp;quot;).innerHTML = keynote1_utc;
+  document.getElementById(&amp;quot;keynote2_time&amp;quot;).innerHTML = keynote2_utc;
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;
+
+&lt;p&gt;This advice comes from colleagues and my own experience organizing the following workshops:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;ICLR 2019 &lt;a href=&#34;https://tarl2019.github.io/&#34; target=&#34;_blank&#34;&gt;Task-Agnostic Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeurIPS 2019 &lt;a href=&#34;https://ml4ad.github.io/2019/&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RSS 2020 &lt;a href=&#34;https://sites.google.com/view/ida2020&#34; target=&#34;_blank&#34;&gt;Interaction and Decision-Making in Autonomous-Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICML 2020 &lt;a href=&#34;https://sites.google.com/view/aiad2020&#34; target=&#34;_blank&#34;&gt;AI for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ECCV 2020 &lt;a href=&#34;https://sites.google.com/view/pad2020&#34; target=&#34;_blank&#34;&gt;Perception for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeurIPS 2020 &lt;a href=&#34;https://ml4ad.github.io/2020&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICCV 2021 &lt;a href=&#34;https://www.mair2.com/&#34; target=&#34;_blank&#34;&gt;Multi-Agent Interaction and Relational Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICCV 2021 &lt;a href=&#34;https://avvision.xyz/iccv21/&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Vision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeurIPS 2021 &lt;a href=&#34;https://ml4ad.github.io&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICRA 2022 &lt;a href=&#34;https://www.icra2022av.org/&#34; target=&#34;_blank&#34;&gt;Fresh Perspectives on the Future of Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You can download a printer-friendly version of this post &lt;a href=&#34;https://docs.google.com/document/d/1fFMQrXW8goEdSfqt6vD21CIl7etA3SzvGLAdaxHZvTM&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to do research</title>

@@ -84,6 +84,16 @@
   </url>
   
   <url>
+    <loc>https://rowanmcallister.github.io/post/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/post/workshops/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -102,11 +112,6 @@
   
   <url>
     <loc>https://rowanmcallister.github.io/post/research/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/post/</loc>
     <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
