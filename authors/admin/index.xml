@@ -101,7 +101,7 @@
 &lt;p&gt;&lt;strong&gt;Lightning talks:&lt;/strong&gt;
 One optional idea is to allow each author to briefly present their work in 1–3 minutes, which serves as an advertisement to attendees to visit their poster during the poster session, assuming you do not have too many authors. This can be more helpful for virtual conferences, since they lack the same serendipity that real poster sessions offer in discovering new works. For smooth transitions between many brief talks, you can request pre-recorded videos for virtual conferences, or use a shared slide deck for in-person presentations.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Keynotes (4-8 speakers):&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;Keynotes (4–8 speakers):&lt;/strong&gt;
 Scheduling 4–8 speakers is a good bet for full day workshops: you can easily allocate 30–45 minutes to each speaker (for talk + questions) this way and still have time for other events like posters and panels. Schedule each speaker at least &lt;em&gt;10 minutes for questions&lt;/em&gt; so your audience can interact and engage with speakers properly. Interaction is what workshops are all about! Keep in mind speakers often go overtime too, so adequate question time helps act as a buffer.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt;
@@ -145,7 +145,7 @@ Inviting big name speakers is a trade off. Big names can draw big crowds with th
 To encourage fresh ideas and fresh faces, I follow a simple rule: no speaker gets reinvited back to the same workshop series. Or if this is a new workshop topic, check who spoke at related workshops in other conferences recently, and select different speakers. This doesn’t always happen, since other organizers have a say too, but I think it’s a nice rule to challenge yourself to seek out speakers you weren’t previously aware of and increase diversity of ideas. Having organizers from different institutions and different nations will help generate a wider set of initial speaker suggestions initially too.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Diversity:&lt;/strong&gt;
-Diversity is important to the community and conference organizers now take this more seriously. Beyond better representing the community and promoting inclusiveness, diversity is a critical selection criteria for workshops, meaning diversity in gender, race, geographic location, subspeciality, and career stage. So think about the set of speakers you want your workshop to have, not just each speaker individually. Optimizing for a set of speakers might require staggered invites as some will agree to speak and some will disagree, so give yourself enough time (4–6 weeks) before the workshop-submission deadline to send out multiple invitation waves to get your confirmed speaker set you can add into your proposal.&lt;/p&gt;
+Diversity is important to the community and conference organizers now take this more seriously. Beyond better representing the community and promoting inclusiveness, diversity is a critical selection criteria for workshops, meaning diversity in gender, race, geographic location, subspeciality, and career stage. So think about the &lt;em&gt;set&lt;/em&gt; of speakers you want your workshop to have, not just each speaker individually. Optimizing for a set of speakers might require staggered invites as some will agree to speak and some will disagree, so give yourself enough time (4–6 weeks) before the workshop-submission deadline to send out multiple invitation waves to get your confirmed speaker set you can add into your proposal.&lt;/p&gt;
 
 &lt;h2 id=&#34;speaker-invitations&#34;&gt;Speaker Invitations&lt;/h2&gt;
 
@@ -225,15 +225,15 @@ Whatever format you choose, consider allowing &lt;strong&gt;4-page submissions&l
 &lt;li&gt;&lt;a href=&#34;https://easychair.org/&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Single blind or double blind?&lt;/strong&gt;
-Single blind means camera-ready submission can be optional or non-existent if you want to create less work for authors. Double blind is probably more fair.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Archival or non-archival?&lt;/strong&gt;
 An archival or formally published workshop proceedings often precludes authors from submitting an extended version of the same work to a more formal venue such as a conference or journal. Some authors therefore ask about this so I usually specify on the website that &lt;em&gt;“no submission will be indexed nor have archival proceedings”&lt;/em&gt;. In some situations, you may invite submission for both proceedings and non-proceedings. For example, full-length papers go to proceedings, extended abstracts go to non-proceedings.&lt;/p&gt;
 
 &lt;h2 id=&#34;reviewing&#34;&gt;Reviewing&lt;/h2&gt;
 
 &lt;p&gt;Reviewing submitted papers is optional. I usually provide reviews since feedback is helpful to authors, but not all workshops do. Some workshops like &lt;a href=&#34;https://sites.google.com/view/deep-rl-workshop-neurips2021&#34; target=&#34;_blank&#34;&gt;Deep RL&lt;/a&gt; are stopping the practice, and were already lightweight in previous years, largely checking for fit, there being actual content, and a selection of stronger papers for longer presentations. Such lightweight reviewing is more lenient, only rejecting poor or off-topic submissions, corresponding to an acceptance rate of about 90%. Detailed reviewing is more valuable to authors but places more burden on reviewers and can be less practical for larger workshops to provide reviews of consistent quality. If you wish to provide reviews, consider recruiting a &lt;em&gt;program committee&lt;/em&gt; (aka reviewers) if you expect 15+ papers, otherwise the organizers can review the papers themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Single blind or double blind?&lt;/strong&gt;
+Single blind means camera-ready submission can be optional or non-existent if you want to create less work for authors. Double blind is probably more fair.&lt;/p&gt;
 
 &lt;h3 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h3&gt;
 
@@ -295,16 +295,16 @@ Once you’ve decided which papers to accept and reject, then notify the authors
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Organizer presence:&lt;/strong&gt; Check which organizers will attend the conferences (especially for physical ones) and stay the whole day. Ensure you have a minimum 2, ideally 3+.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Prepare introductions&lt;/strong&gt; for each speaker (their bio) for a warm introduction and smooth transitions between speakers. If you are unsure how to pronounce their name, ask them privately in advance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Obtain any consent+release forms&lt;/strong&gt; (permission to record) from speakers supplied to you by any recording groups the conference uses (if any) like SlidesLive&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Print messages:&lt;/strong&gt; To stay on schedule, help speakers avoid going overtime by bringing printed numbers that you can hold up to inform them how many minutes they have left&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Print schedules&lt;/strong&gt; to pin up outside the room (so conference attendees walking outside can check when they might want to join)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obtain any consent and release forms&lt;/strong&gt; (permission to record) from all speakers (keynotes and author talks) supplied to you by any recording groups the conference uses (if any) like SlidesLive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print messages:&lt;/strong&gt; To stay on schedule, help speakers avoid going overtime by bringing printed numbers that you can hold up to inform them how many minutes they have left.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print schedules&lt;/strong&gt; to pin up outside the room (so conference attendees walking outside can check when they might want to join).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Spare stuff:&lt;/strong&gt; Bring spare AV adaptors including Apple adaptors, since AV issues often arise on the day, and spares are useful. Also bring your laptop, USB drives; and spare tape and push pins for posters.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Backup questions:&lt;/strong&gt; Prepare “backup questions” for each keynote or spotlight speaker. When each speaker concludes their talk, you’ll invite questions from the audience, but sometimes they cannot think of anything to ask initially. In such cases, it’s great to have some questions pre-prepared. You can prepare by watching speakers&amp;rsquo; talks in advance if recorded, or reading their recent on-topic papers in advance.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;day-of-the-workshop&#34;&gt;Day of the Workshop&lt;/h2&gt;
 
-&lt;p&gt;It is likely that something will go wrong on the day of your workshop. Redundancy helps here. So have &lt;em&gt;multiple&lt;/em&gt; organizers attending the workshop to deal with issues together. If virtual, one of you may lose internet connection, so have 2+ organizers online at any one time. If in-person, carry a spare laptop, AV adapters, and USB drive in case speakers have equipment issues. I Have a private schedule with the other organizers who will be the master of ceremonies (MC) when, and who will be watching on standby as “backup MC” ready to take over within a few seconds if something goes wrong (like the MC losing internet connection).&lt;/p&gt;
+&lt;p&gt;It is likely that something will go wrong on the day of your workshop. Redundancy helps here. So have &lt;em&gt;multiple&lt;/em&gt; organizers attending the workshop to deal with issues together. If virtual, one of you may lose internet connection, so have 2+ organizers online at any one time. If in-person, carry a spare laptop, AV adapters, and USB drive in case speakers have equipment issues. I have a private schedule with the other organizers who will be the master of ceremonies (MC) when, and who will be watching on standby as “backup MC” ready to take over within a few seconds if something goes wrong (like the MC losing internet connection).&lt;/p&gt;
 
 &lt;p&gt;My checklist: arrive early and&lt;/p&gt;
 
@@ -347,7 +347,7 @@ Not all websites are accessible to everyone. &lt;a href=&#34;https://sites.googl
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Timezone help:&lt;/strong&gt;
-To help virtual attendees avoid doing timezone conversations themselves, you can display the time of each section of the workshop in multiple major time zones on your website’s schedule, or use javascript to display event times in the attendee&amp;rsquo;s local timezone (&lt;a href=&#34;./#display-schedule-events-in-user-s-timezone&#34;&gt;example&lt;/a&gt;). You can also include an ICS-formatted calendar they can download too (&lt;a href=&#34;https://aiforspace.github.io/2021/#program&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;). Or assuming most people use Google Calendar, you can add one-click per-event invites. To do this, first add a new workshop calendar, then click calendar options →check “Make available to public” check true (&lt;a href=&#34;https://webapps.stackexchange.com/questions/108094/google-calendar-link-is-not-working-after-publish-event&#34; target=&#34;_blank&#34;&gt;details&lt;/a&gt;). Second, publish each event individually (click three dots for the Options menu, click “Publish event”, copy “Link to event”). Another alternative when using a github webpage, is to include a javascript &lt;a href=&#34;./#display-live-venue-time-in-schedule&#34;&gt;“venue time” clock&lt;/a&gt; (local time at the venue) on the schedule.&lt;/p&gt;
+To help virtual attendees avoid doing timezone conversations themselves, you can display the time of each section of the workshop in multiple major time zones on your website’s schedule, or use javascript to display event times in the attendee&amp;rsquo;s local timezone (&lt;a href=&#34;./#display-schedule-events-in-user-s-timezone&#34;&gt;example&lt;/a&gt;). You can also include an ICS-formatted calendar they can download too (&lt;a href=&#34;https://aiforspace.github.io/2021/#program&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;). Or assuming most people use Google Calendar, you can add one-click invites per event. To do this, first add a new workshop calendar, then click calendar options →check “Make available to public” check true (&lt;a href=&#34;https://webapps.stackexchange.com/questions/108094/google-calendar-link-is-not-working-after-publish-event&#34; target=&#34;_blank&#34;&gt;details&lt;/a&gt;). Second, publish each event individually (click three dots for the Options menu, click “Publish event”, copy “Link to event”). Another alternative when using a github webpage, is to include a javascript &lt;a href=&#34;./#display-live-venue-time-in-schedule&#34;&gt;“venue time” clock&lt;/a&gt; (local time at the venue) on the schedule.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Helpful Tips / FAQ:&lt;/strong&gt;
 If the workshop is physical, I often like to add suggestions where authors can print their posters near the venue (easier for one person googling this than 50). Some workshops even include poster templates.&lt;/p&gt;
@@ -406,8 +406,7 @@ Add a streaming link on your website if the conference allows it. For example, y
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/microsoft-teams/group-chat-software&#34; target=&#34;_blank&#34;&gt;Microsoft Teams&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://hopin.com/&#34; target=&#34;_blank&#34;&gt;Hopin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Per-author Zoom links (generally a bad idea, lots of lonely rooms)&lt;/li&gt;
-&lt;li&gt;Or avoid poster sessions, change to short author talks, with general Q&amp;amp;A after.&lt;/li&gt;
+&lt;li&gt;Note: per-author Zoom links are generally a bad idea, the lack of serendipity leads to many lonely rooms.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;sponsorship&#34;&gt;Sponsorship&lt;/h1&gt;
@@ -435,7 +434,7 @@ Sponsors might also request &lt;em&gt;proof&lt;/em&gt; that prize recipients are
 
 &amp;lt;script&amp;gt;
   // Set the date we&#39;re counting down to
-  var countDownDate = new Date(&amp;quot;Nov 19, 2021 23:59:59 UTC&amp;quot;).getTime();  // enter time here in AoE
+  var countDownDate = new Date(&amp;quot;Jan 1, 2022 23:59:59 UTC&amp;quot;).getTime();  // enter time here in AoE
   countDownDate = countDownDate + 1000 * 3600 * 12 // AoE = UTC - 12
 
   // Update the count down every 1 second
