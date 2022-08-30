@@ -6,10 +6,406 @@
     <description>Recent content on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Academia to industry</title>
+      <link>https://rowanmcallister.github.io/post/industry/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/post/industry/</guid>
+      <description>
+
+&lt;p&gt;If you’re anything like I was after academia, wondering how to navigate tech’s job market, then this post is for you. The lessons here are intended to help inform you what you can do before—and during—your job search to increase your chances of getting offers and improving those offers. With special thanks to &lt;a href=&#34;https://gregkahn.github.io/&#34; target=&#34;_blank&#34;&gt;Gregory Kahn&lt;/a&gt;, &lt;a href=&#34;https://katerakelly.github.io/&#34; target=&#34;_blank&#34;&gt;Kate Rakelly&lt;/a&gt;, &lt;a href=&#34;https://www.borisivanovic.com/&#34; target=&#34;_blank&#34;&gt;Boris Ivanovic&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/rebekahbaratho&#34; target=&#34;_blank&#34;&gt;Rebekah Baratho&lt;/a&gt;, &lt;a href=&#34;https://abalakrishna123.github.io/&#34; target=&#34;_blank&#34;&gt;Ashwin Balakrishna&lt;/a&gt;, &lt;a href=&#34;https://jessicayin.com/&#34; target=&#34;_blank&#34;&gt;Jessica Yin&lt;/a&gt;, &lt;a href=&#34;https://people.eecs.berkeley.edu/~nrhinehart/&#34; target=&#34;_blank&#34;&gt;Nick Rhinehart&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/jessica-cataneo-09963b1a/&#34; target=&#34;_blank&#34;&gt;Jessica Cataneo&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/rare%C8%99-ambru%C8%99-b04812125/&#34; target=&#34;_blank&#34;&gt;Rares Ambrus&lt;/a&gt;, for their input and feedback. Also thanks to &lt;a href=&#34;https://www.robertocalandra.com/about/&#34; target=&#34;_blank&#34;&gt;Roberto Calandra&lt;/a&gt; who guided me through my own job search. Opinions below are not necessarily shared by all who helped.&lt;/p&gt;
+
+&lt;h1 id=&#34;why&#34;&gt;Why?&lt;/h1&gt;
+
+&lt;p&gt;Why would you want to leave academia for industry? There’s different kinds of industry positions that may appeal to you. From being embedded in a production team writing production code (typical of “research engineer” or “software engineer” roles), to a startup, to basically being an academic paid an industry salary to publish papers as a “research scientist”. Benefits of industry include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More pay&lt;/strong&gt;: Often 5x more. Such a large increase can give you more options in life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;More support&lt;/strong&gt;: It is inefficient for companies to pay top dollar for your skill in X while having you be distracted by Y. So mid–large size companies usually have more administrative support than universities can afford to help you work more effectively. This means easier and faster reimbursement processes, for example. Visa issues? Now you have lawyers on call to help you. Companies are better incentivized to remove your blockers and distractions that impede your work. This includes financial blockers too. As a researcher in industry, you will generally have more funding for your research projects too, and internal applications for that funding is simpler.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can be interesting&lt;/strong&gt;: If working on a product, you might be able to see the fruits of your labor sooner, which can feel rewarding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can still do research&lt;/strong&gt;: While you might not have as much “academic freedom” compared to university positions, the “freedom gap” between industry and companies has been closing in recent years. Today, many industrial research groups offer significant academic freedoms to attract talent, especially for research scientist positions when hired as an “individual contributor” (IC): it’s often up to you to figure out your research agenda within fairly broad bounds. In research, your manager isn’t necessarily a “technical manager” like a PhD supervisor—who has more sway on your research direction—but more often a “people manager” that exists to help you be more effective, remove roadblocks, and help build connections for you to apply your work internally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can still return to academia later&lt;/strong&gt;: The academic door won’t close. It is easier nowadays to switch back and forth between academia and industry.
+
+&lt;ul&gt;
+&lt;li&gt;I remember ominous warnings at grad school to be careful: those who venture from academia into industry rarely return! Once someone gets used to higher pay and standards of living, they cannot bring themselves to return! Scary stuff. While it’s true many people don’t later return, there’s many additional reasons beyond pay for this: (1) a selection bias of those who wanted to leave academia anyway, (2) size(industry) &amp;gt; size(academia), (3) better work-life balance, vision, product, and purpose. You can always return to academia later if you like, but sometimes the grass really is greener: you may find you’re happier in engineering or industrial research roles.&lt;/li&gt;
+&lt;li&gt;That said, if you do want to hold the academic door open after you leave, try to continue publishing while in industry, to stay relevant, avoiding a big publication gap in your resume.&lt;/li&gt;
+&lt;li&gt;Another option is to do academia and industry concurrently. Those majority-academia, like professors, might supplement their salary by (1) spending 20% of their time at a company, or (2) consulting for multiple companies a few hours each month, or (3) have a startup on the side. Even industry folk can sometimes find lecturer positions to teach a class per year.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;jpg-nothing-jpg&#34;&gt;&lt;img src=&#34;./nothing.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;while-in-academia&#34;&gt;While in Academia&lt;/h1&gt;
+
+&lt;h2 id=&#34;network&#34;&gt;Network&lt;/h2&gt;
+
+&lt;p&gt;Networking is about building relationships with &lt;strong&gt;key people&lt;/strong&gt; in the industry you wish to enter. Application success is a function of both what you know and who you know. “Who you know” isn’t necessarily about nepotism, there’s many legitimate benefits including familiarity, pre-vetting, and simple awareness of you. When key people are aware of any skills of yours useful to them, they can then help:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;inform you of the available positions,&lt;/li&gt;
+&lt;li&gt;increase the probability of you getting an offer,&lt;/li&gt;
+&lt;li&gt;improve your offer (increasing your compensation), and&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;create&lt;/em&gt; new positions for you to apply to (that weren’t on their website beforehand).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Networking is also about building up a set of &lt;strong&gt;colleagues&lt;/strong&gt; and &lt;strong&gt;mentors&lt;/strong&gt; that you trust, who would like to see you succeed in your career. Key people are useful for getting in certain doors, but colleagues and mentors can help show you which doors exist in the first place, and give you insight about what&amp;rsquo;s beyond each. Many hyped-up companies have non-obvious downsides you’ll be unaware of, and there are many modest companies you haven’t heard of which are relevant to you, which a supportive network can help you identify. They can also give you a warm introduction to employees within different companies, which themselves could be your internal champion or simply be happy to have an informal chat about their company before you decide to formally apply or not. Mentor relationships—those with someone more advanced in their career than you—are more common in older fields like law or medicine, but there’s no reason you can’t seek out mentors in tech too: people generally enjoy helping through giving advice, and may appreciate someone values their career advice or wants to follow a similar path as they did, or simply the thrill of vicariously living through all the early-stage career decisions and strategizing again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Start early&lt;/strong&gt;. Networking takes time, the more time you have the better, so start early, ideally &lt;em&gt;years&lt;/em&gt; before your graduation, so you can build up contacts at each company before you apply, and build an understanding of their wider organizational structure, and where you might like to fit in later. Feeling like an “insider” to a company rather than an “outsider” can be a big confidence booster during the application and subsequent interview process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conferences and workshops&lt;/strong&gt;: You can network at conferences, e.g. job booths and corporate mixers. Networking is typically more effective at smaller, more focused conferences like &lt;a href=&#34;https://corl2022.org/&#34; target=&#34;_blank&#34;&gt;CoRL&lt;/a&gt; which has several hundred physical attendees. This number is small enough that you will re-bump into people again and again during the week, compared to larger conferences like &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NeurIPS&lt;/a&gt; and &lt;a href=&#34;https://cvpr2022.thecvf.com/&#34; target=&#34;_blank&#34;&gt;CVPR&lt;/a&gt; with thousands of physical attendees, where there are just too many people: you’ll chat to someone once and never see them again. At larger conferences you may find it easier to network at specific workshops within the conference, being a more manageable size to get to know people. Workshops also have more of a &amp;ldquo;many-to-many&amp;rdquo; format, vs main conference where it&amp;rsquo;s &amp;ldquo;many-to-one&amp;rdquo; (aka many people trying to mob one poster).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unique skills&lt;/strong&gt;: Networking pays off big time if you can (1) discover which companies need your skill X, and (2) make that company &lt;em&gt;aware&lt;/em&gt; that you have skill X. During your time in academia you probably developed some &lt;a href=&#34;https://matt.might.net/articles/phd-school-in-pictures/&#34; target=&#34;_blank&#34;&gt;unique skills, knowledge, or insights&lt;/a&gt;. Depending on how much a company wants X, they can move mountains to convince you to join them: break their own hiring process, overrule their internal compensation limits, create custom positions just for you. While uncommon, it happens, because ultimately “processes” and “policies” are just words, the truth is that companies are competing for talent and everything is negotiable, it all depends how much companies value X. So find out!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organize workshops&lt;/strong&gt;: Workshops are a great way to network. If you know what area you want to work in after graduation, consider &lt;a href=&#34;../workshops/&#34;&gt;organizing a workshop&lt;/a&gt; on this topic. As an organizer, you’ll meet speakers and authors on friendly terms, having just provided them an additional opportunity to showcase their work. In addition, you’ll get to work closely with organizers from various labs and companies in this area. Inviting speakers or panelists from companies you are interested in can also be a great way to learn more about the research interests and projects going on in companies you may want to apply to in the near future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Visit other labs&lt;/strong&gt;: besides &lt;a href=&#34;https://docs.google.com/document/d/1lLvdlMMy4eC4FtmzWzB-suq9-Dab_kFRzDZHbYQbVHk/edit#heading=h.1radpf80zi7b&#34; target=&#34;_blank&#34;&gt;internships&lt;/a&gt;, you can also visit others labs. This is a good way to keep your learning curve steep, meet many new students and professors, learn their philosophies and methods in more depth (especially since most tech knowledge is “dark knowledge”: insights and intuitions not explicitly written down anywhere). Visiting is a great way to get outside your own lab’s echo chamber, while additionally bringing your lab’s strengths and philosophies to new labs, which the new lab can benefit from, and can create really interesting cross-collaborations. Cross collaborations are much easier when you’re physically together, grabbing coffee and lunch together too. I initially learned a lot from my own lab, but after I understood better how everyone thought and had then already benefited from understanding their intuitions, it was then more fruitful to branch out to work with visiting scholars from other universities, or folks from neighboring labs within the same university.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speak to industry&lt;/strong&gt;: In academia, you are free to blab about what you work on, including technical details. Industry is not like this, NDA agreements often restrict what you can communicate externally. So, while you are in academia, exploit your &lt;em&gt;temporary&lt;/em&gt; freedom to communicate your research to key people. Offer to give talks at companies starting 1–2 years before graduation. Many companies have internal reading groups and will appreciate an external speaker for a change! It’s not as weird as it might sound to invite yourself to speak, rather, I suspect it’s an &lt;strong&gt;underutilized strategy to network with key people&lt;/strong&gt;. You meet people inside each company early on, and have a chance to reinforce those relationships at conferences etc, creating internal champions there when you later apply for positions. It’s also a chance to learn about the company’s priorities, interests, technical strengths and weaknesses before you apply: by listening to the questions they ask at your talk, or what they most enjoyed, or at more relaxed conversations over lunch. This informs you of the skills they’ll likely be looking for when you later apply, what you could research in the meantime, and can then highlight your solutions to their problems in your CV or &lt;a href=&#34;./#tech-talk&#34;&gt;tech talk&lt;/a&gt;. It’s much easier to get hired when (1) people like you and (2) you clearly bring skills they need. Speaking at companies can be a fun half-day trip including lunch too. I used to think “what do I know, these secretive, well-funded companies are probably way ahead of what our small underfunded university lab is doing”, but I was wrong. Companies are usually behind the SOTA given their product focus and risk aversion, so they often are interested in hearing what cutting edge research that &lt;em&gt;you&lt;/em&gt; have been up to!&lt;/p&gt;
+
+&lt;h2 id=&#34;online-presence&#34;&gt;Online Presence&lt;/h2&gt;
+
+&lt;p&gt;In 2022 academia, it’s important to have an online presence. Use this to advertise your work online. Communication is a critical role for any scientist, so take the time to make a professional website, nice videos, tweets, linkedin posts, publication links on your website without paywalls. It’s important, since posting your material online scales better than manual networking. By crafting engaging material about your research, e.g., videos, you increase its reach and can have more impact: a lot more people will watch your video than read your paper. Simple awareness of your work is now half the battle in overhyped fields like machine learning where there is now a tough competition for attention.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open source code&lt;/strong&gt;: Open sourcing code that actually gets used (aka stars on github) is a great sign when people evaluate you. So if you want others to read, use, and cite your work, you have to make it as easy as possible. This doesn’t only mean open-sourcing the code, but open-sourcing clean, executable code with a full README, notebooks, reproducible environments (e.g., requirements.txt) that allow researchers to instantly pick up from your results with ease. Think of all the frustrations you may have had when trying to use another researcher&amp;rsquo;s code, and what made it frustrating for you. After watching a great video, people might want to try your method out themselves, and having easily-accessible, clean code makes that possible.&lt;/p&gt;
+
+&lt;h2 id=&#34;internships&#34;&gt;Internships&lt;/h2&gt;
+
+&lt;p&gt;Internships are a good way to build connections and “test the waters”. While undergrad interns have less freedom in what the internship will entail, typically being told what to work on when you arrive, PhD interns have more control of what the contents of the internship will be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do internships&lt;/strong&gt;, to build connections and build a sense of what life is like beyond academia. Beyond improving your CV, internships are a great source of information on what a particular company or sector is like. Internships can also reveal what you want in your career (this can be hard to know when you don’t know your options are yet). Internships can teach you what to target when applying for full-time jobs later, what work you enjoy, and perhaps more importantly: &lt;em&gt;what you don’t like&lt;/em&gt;. Meaning, it’s better to “lose” 3 months doing the “wrong” internship than 3 years in the “wrong” job. So treat internships as an opportunity to learn about yourself, to “test” different different types of jobs. And while there’s a natural tendency to intern at familiar places that you (or your supervisor) already have connections at, consider that you might learn more interning at unfamiliar places, and could be pleasantly surprised. It’s only 3 months, so internships might be better spent reducing the “unknown unknowns” in your life than reinforcing what you already knew about yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;: For my own experiences, an internship at an airport during undergrad taught me that I did not want to be an aeronautical engineer. Learning this was valuable: I switched majors into robotics before graduating, saving my career 2-3 years on the wrong path had I switched after graduating. During my masters I interned with Google, which was great, but I learned that I didn’t want to build a generic skill set which a million other programmers knew too. Rather, I learned that I wanted to be an &lt;em&gt;expert&lt;/em&gt; in something: to develop and possess specialized skills, which prompted the PhD. During my PhD I had a great internship with UberATG, where I developed an interest in autonomous vehicles which ultimately led to my current position.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do internships while you can&lt;/strong&gt;: Internships are a bit magical. At no other time after your degree can you repeatedly walk into various companies for only 3–4 months, do cool work, and walk out with everyone happy, and it actually looks good on your CV too! Changing companies every three months &lt;em&gt;after graduation&lt;/em&gt; would create red flags, but oh if it was an “*internship*”, well that looks good! Internships are typically before graduation, though some companies now offer internships immediately after graduation too. And to ensure you &lt;em&gt;can&lt;/em&gt; intern, plan early, and coordinate with your advisor. Some PhD advisers are OK with internships, and some are not. Common reasons for being against internships are if they aren&amp;rsquo;t research related, delay graduation, etc. So figuring out where your adviser stands as early as possible is good, and also coming up with a game plan early. &lt;strong&gt;Caveat&lt;/strong&gt;: internships do carry some cost. Besides adviser resistance, they can impede your research momentum and delay graduation. Opposed to your job search strategy where more applications is generally better, internship applications should probably be more focused and purposeful. You don’t need to intern, the pros must outweigh the cons. For example some students only seek internships where they share a strong research fit with the team and having specific scientists they want to work with, to compliment their studies rather than distract from it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Internships = extended interviews&lt;/strong&gt;. Assuming your internship went well, the company is now more likely to hire you since you are now familiar to them, no longer an unknown risk: they &lt;em&gt;know&lt;/em&gt; what it’s like working with you. This is important and if you’re interested in pursuing a full-time role at this company, you have a much better chance of landing the job. Reason is that precision trumps recall in hiring: an accidental “bad hire” is far worse than missing a “good hire”, so by removing doubt and enabling a company to &lt;em&gt;know&lt;/em&gt; that you’d be a good hire already puts you in a strong position.&lt;/p&gt;
+
+&lt;h1 id=&#34;job-search&#34;&gt;Job Search&lt;/h1&gt;
+
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Understand your interests and goals&lt;/strong&gt;. Take some time to introspect and ask yourself the big questions. What excites you? What do you value? What do you want to achieve long term? It can help to think long-term about what you want your career to be about, and brainstorm what you want your life to look like X years from now, or what you want society to look like X years from now, and work back from there. It’s OK to be uncertain about &lt;em&gt;where&lt;/em&gt; your skills are better applied, you can factor that in later. Your first step is understanding yourself, your intrinsic motivations, and your sense of purpose. Reflecting on these questions will narrow your search towards sectors or industries you might find interesting. Searching for &lt;em&gt;interesting&lt;/em&gt; jobs might sound obvious, but many people do not enjoy their industry jobs, and are there for the money only. But with a grad degree in STEM, you’re hopefully able to find a job that ticks more boxes than just adequate compensation. Ideally, you can find a fulfilling job that you’re passionate about, and pushes you up as many of the stages in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs&#34; target=&#34;_blank&#34;&gt;Maslow&amp;rsquo;s Hierarchy of Needs&lt;/a&gt; as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Research your options&lt;/strong&gt;. Which companies should you apply to? You can ask colleagues and search online.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can compare culture and pay using &lt;a href=&#34;https://www.glassdoor.com/&#34; target=&#34;_blank&#34;&gt;Glassdoor&lt;/a&gt;, &lt;a href=&#34;https://www.teamblind.com/&#34; target=&#34;_blank&#34;&gt;Blind&lt;/a&gt;, and &lt;a href=&#34;https://www.levels.fyi/&#34; target=&#34;_blank&#34;&gt;Levels&lt;/a&gt;; with a grain of salt.&lt;/li&gt;
+&lt;li&gt;You can ask colleagues and lab alumni who know you, your skills, and your preferences.&lt;/li&gt;
+&lt;li&gt;You can also cold-email companies that you find interesting. Smaller companies have excellent response rates, and will often set up introductory calls, to discuss fit—especially if you have a PhD—helpful to decide if you want to apply there.&lt;/li&gt;
+&lt;li&gt;Note large companies aren’t homogeneous, there’s certain subgroups you’ll be more interested in than others. Just because you hate one group in the company, doesn’t mean you’ll hate all groups.&lt;/li&gt;
+&lt;li&gt;Keep up with the literature in your field and note which companies (and specific research scientists) are actively publishing / participating / sponsoring conferences.&lt;/li&gt;
+&lt;li&gt;If interested in startups, venture capitalists (VCs) can help make connections. To join a pre-existing startup, you can even email VCs with a &amp;ldquo;hey I&amp;rsquo;m a PhD expert in my field looking for a job&amp;rdquo; and they can introduce to you many options that aren’t publicly visible yet. Alternatively, &lt;em&gt;creating&lt;/em&gt; a startup might interest you, but this usually involves several rounds of meeting different VCs to find the right VC for your idea (i.e., start with any VC, pitch, then meet their VC contacts they recommend, then meet theirs, and so on for 4–8 rounds, until you find the right VCs for you).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Evaluate companies&lt;/strong&gt;: As you research different companies, it can help to preemptively begin a decision matrix or “weighted scorecard” on which companies you’d prefer working for. Using a spreadsheet, list each independent quality you care about in an employer, and quantify how much you care about each quality with a weight. Then rate each company out of 10 per quality, summing up to a final, weighted average score. Example:&lt;/p&gt;
+
+&lt;table style=&#34;text-align:center&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;background-color:#FCF3CF;text-align:left&#34;&gt;Quality&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;Projects&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;People&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;Pay&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;Location&lt;/th&gt;
+    &lt;th style=&#34;background-color:#E8DAEF&#34;&gt;Weighted Score&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr style=&#34;background-color:#FCF3CF&#34;&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Weight&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;4&lt;/td&gt;
+    &lt;td style=&#34;background-color:#E8DAEF&#34;&gt;Σ weight × score&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Company A&lt;/td&gt;
+    &lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;7&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;224&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Company B&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;228&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Company C&lt;/td&gt;
+    &lt;td style=&#34;background-color:#CCD1D1&#34;&gt;5–10?&lt;/td&gt;
+    &lt;td&gt;7&lt;/td&gt;
+    &lt;td&gt;7&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td style=&#34;background-color:#CCD1D1&#34;&gt;190–230?&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;While you may not have all the information yet, you now know the relevant questions to ask during your interviews that will later help you make your final decision. For example, Company B looks good, but company C might be worthwhile assuming the projects are sufficiently interesting, so ask about  project details of Company C.&lt;/p&gt;
+
+&lt;h2 id=&#34;prepare&#34;&gt;Prepare&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: Have a personal website showing your research. If you don&amp;rsquo;t already have a website, you can host it on your lab’s university page for higher search engine page rank, or GitHub, or your own domain. Traditional CVs still have their place, even in the 2022 tech world, but your online presence also matters: anticipate potential employers googling you, and make sure your website is up to date.&lt;/p&gt;
+
+&lt;p&gt;Interviewing itself is also a great way to job search, to find out about what goes on in different companies. This is especially true for startups which can be quite secretive. They’ll tell you a whole lot about the company that they don’t make public, especially right before you decide who to sign with, people get a lot more loose lipped if they believe it will help you sign. So even if you’re unsure about applying to a company or not, why not apply anyway to learn more? Don’t worry about &amp;ldquo;wasting their time&amp;rdquo;, just be transparent and know that they probably do want to chat. For example you can say &amp;ldquo;for full transparency, only a 5% chance I&amp;rsquo;m actually interested&amp;rdquo; and they might respond &amp;ldquo;no problem! let&amp;rsquo;s chat anyway&amp;rdquo;. You can also reach out to acquaintances in the company to chat, and even a referral; some companies offer their employees bonuses for referrals so they may be inclined to refer you internally even if you’re “only” an acquaintance to them.&lt;/p&gt;
+
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+
+&lt;p&gt;Often the most useful way to get insight into the application process is talking to people 1–2 years &amp;ldquo;ahead&amp;rdquo; of you. Ideally recently graduated phds/postdocs from your group for more specific advice to your particular field, background, and interests. The people with the most similar and recent experience to you will give you better calibration. Nevertheless, some more general advice follows.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to start&lt;/strong&gt;: Apply to 3–10 places you’d like to work. “Like to work” means if only place X gives you an offer, and all other places reject you, you’d likely accept the offer from X (given your current understanding of X, before interviewing). &lt;em&gt;You want multiple offers&lt;/em&gt;, since this allows you to negotiate your salary higher than with only one offer by auctioning your labor: having companies one-up each other during &lt;a href=&#34;./#negotiation&#34;&gt;negotiations&lt;/a&gt; (discussed later). So if you’re not feeling confident, apply to a few more companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When to start&lt;/strong&gt;: Most people start interviewing before their graduation so they have the security of knowing what’s happening next (especially if in the US on a visa), although you don’t necessarily need to do this. Ideally start 3–4 months before you’d like to sign an offer. Plan to have offers arriving concurrently. This means:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Timing&lt;/strong&gt;: Apply to multiple companies approximately at the same time, and schedule interviews at larger companies slightly earlier than others. The hiring process for larger or more established companies typically just take longer, it’s just a law of nature, they have more bureaucracy and take longer to make decisions. Startups will respond faster. Note, however, you do not have full control of timing; some companies will ignore your preferred timelines, but  still inform them as there is usually flexibility on their deadlines.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Warm up&lt;/strong&gt;: That said, &lt;em&gt;do not apply to your favorite place first&lt;/em&gt;. You need to warm up. If you interview at 1–2 lesser preferred companies first, then you’ll be more relaxed and confident while interviewing for your dream job.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Inform key people&lt;/strong&gt;: If there’s a particular group you want to work with, email the group’s manager to inform them you are applying. &lt;em&gt;Do not just apply to the generic website interface and wait. Go directly to your would-be-manager&lt;/em&gt;. You&amp;rsquo;re much less likely to &amp;ldquo;slip through the cracks&amp;rdquo; unnoticed into a sea of applicants that recruiters try to filter and make sense of if the key technical person (your would-be-manager) gets a nice email from you and knows that you&amp;rsquo;re applying. And if they don&amp;rsquo;t already know you, then briefly outlining which lab you’re coming from or what your research interests are might make them pay more attention if there’s overlap. Manager’s can get a little annoyed receiving many of these emails, but I promise a &lt;em&gt;brief and polite&lt;/em&gt; email will not hurt your chances, it will either help or have no effect. OK, but what if you don’t know who these “key people” are? Well you can find out by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./#network&#34;&gt;Networking&lt;/a&gt; in advance&lt;/li&gt;
+&lt;li&gt;Crawl &lt;a href=&#34;https://www.linkedin.com/&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Research the authors of research papers you liked most at that company&lt;/li&gt;
+&lt;li&gt;Ask your professor and lab alumni: many key people are probably only 2 degrees of separation away from you. Professors can vouch for their students if they know people in the company too, it’s in their interest to set their students up for success after time at their lab too.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Apply even if there are no job postings&lt;/strong&gt;. Just because a company is not advertising positions doesn’t mean they cannot hire you. If there is a particular team or person you want to work with, just email them (or if they don’t respond in 1–2 weeks, try LinkedIn). If you don’t know them, it can help for someone to vouch for you, since managers and team leads get such emails. They may ignore you, they may not. But it doesn’t hurt to try.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Multiple applications per company?&lt;/strong&gt; Some larger companies allow you to apply to multiple of their job postings concurrently. They might schedule these in serial, or in parallel. Don’t simply assume you can only apply to one team, or if one team rejects you, that you can’t necessarily apply to another team.&lt;/p&gt;
+
+&lt;h1 id=&#34;interviewing&#34;&gt;Interviewing&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Timeline&lt;/strong&gt;: If the company decides to proceed with interviews, they may begin with a non-technical filter interview with a recruiter or HR, and then a technical interview. Passing both of these then warrants the company investing more time and effort to assess your skills in depth with a full day &lt;a href=&#34;./#onsite&#34;&gt;onsite&lt;/a&gt; series of interviews. Note “onsite” during covid is often virtual. They may have an interview with someone more senior after this, but they are now pretty close to making a decision on whether to send you an offer or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be positive&lt;/strong&gt;: an important part of interviewing is figuring out if you’re a good “team fit”, these interviewers are also thinking: “would I enjoy working with you?” Being positive, polite, and enthusiastic about your own research, and the interviewer’s research if discussed, are easy wins. When candidates present their work as if it bores them (it happens!), they score poorly on the “team fit” evaluation and no one internally champions their candidacy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn about the company&lt;/strong&gt;: After any interview questions you are given, you may have the chance to ask any questions about the company, projects, about what working at the company is like. Asking your would-be-colleagues is often a more accurate assessment of what that company is actually like, since they are less incentivized to sugar coat the lifestyle there like your recruiter or would-be-manager is, but will more likely tell you the pros and cons as they see them. Some suggested questions are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;“What are the long term goals and vision for this team?”&lt;/li&gt;
+&lt;li&gt;“What are you currently working on and what do you want to work on next?”&lt;/li&gt;
+&lt;li&gt;“What is the culture like? Do people work individually more, or in groups?”&lt;/li&gt;
+&lt;li&gt;“Why did you join this company?”&lt;/li&gt;
+&lt;li&gt;“What are the expectations of me, and what are the metrics for employee performance reviews?”&lt;/li&gt;
+&lt;li&gt;“What would my first month and year look like?”&lt;/li&gt;
+&lt;li&gt;“What is the remote / hybrid work policy like?”&lt;/li&gt;
+&lt;li&gt;“How similar / different is the research environment here to an academic research environment?” Asking them to point out the differences can help understand if the work is more product-driven or longer-horizon, and how it might generally differ to your current experiences as a reference point.&lt;/li&gt;
+&lt;li&gt;“Are employees incentivized to publish?”&lt;/li&gt;
+&lt;li&gt;If you do longer-horizon research, you may want to ask about research funding stability. Or asking this more indirectly: &amp;ldquo;How does your team&amp;rsquo;s research fit into the long term vision of the company&amp;rsquo;s goals?”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visas&lt;/strong&gt;: Some students might start off continuing their student visas and working on an F-1 OPT (with the possibility for a 2-year STEM extension thereafter). The main questions that are important to consider here are usually along the lines of: Will the company sponsor me for an H-1B (the answer is almost certainly yes, it is in their interests to, but good to verify), Will the company sponsor a permanent resident (= green card) application for me? Is there a waiting period where I have to work at the company for X year(s) before they apply for me?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;onsite&#34;&gt;Onsite&lt;/h2&gt;
+
+&lt;p&gt;Congrats, you passed the first couple interviews! You’re now ready for the onsite. An onsite (either in-person or virtual) is often an all-day affair, where you interview with many employees one-to-one in succession.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding interview&lt;/strong&gt;: many tech companies have some type of coding interview, and many people practice for this using &lt;a href=&#34;https://leetcode.com/&#34; target=&#34;_blank&#34;&gt;LeetCode&lt;/a&gt;. As a manager, I’ve stopped the practice, since live coding interviews teach me little about the candidate&amp;rsquo;s actual coding ability, in addition to stressing them out (we do walkthroughs together of their prior repos instead). I personally think live coding is a lazy way to filter, favored by larger companies to standardize their interviews (even across engineering and research roles), but I digress. The point is most large tech companies do live coding interviews, so practice beforehand! Read up on those graph search algorithms, hash tables implementation, binary tree manipulation, from your &lt;a href=&#34;https://en.wikipedia.org/wiki/Introduction_to_Algorithms&#34; target=&#34;_blank&#34;&gt;Introduction to Algorithms&lt;/a&gt; textbook. Consider reading &lt;a href=&#34;https://www.crackingthecodinginterview.com/&#34; target=&#34;_blank&#34;&gt;Cracking the Coding Interview&lt;/a&gt; too. For machine learning specific interviews, practice coding the basics like &lt;a href=&#34;https://en.wikipedia.org/wiki/K-means_clustering&#34; target=&#34;_blank&#34;&gt;K-means&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Logistic_regression&#34; target=&#34;_blank&#34;&gt;logistic regression&lt;/a&gt;, and possibly dynamic programming style questions if you have a background in control or reinforcement learning. Early startups might not bother with live coding, and tailor their interview process to each candidate more, but whatever the case: know it’s fine to ask a company what type of interviews they&amp;rsquo;ll be giving so that you can do more focused prep.&lt;/p&gt;
+
+&lt;h3 id=&#34;tech-talk&#34;&gt;Tech Talk&lt;/h3&gt;
+
+&lt;p&gt;For research and scientist positions, some companies will offer you the option to do a “tech talk” at the beginning of the onsite day. &lt;strong&gt;I highly recommend giving a tech talk&lt;/strong&gt;, for two reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;u&gt;You start the onsite from a position of strength&lt;/u&gt;: By giving a tech talk before your 1-1s that day, you start from a position of strength by talking about the things that &lt;em&gt;you are expert in&lt;/em&gt;. This defines many of the questions you’ll later get during 1-1s that day, drawing many of the questions you’d otherwise receive that day into your area of expertise.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Opportunity to communicate your research&lt;/u&gt;: If you’re continuing research in industry, continuing to be a researcher, then tech talks are like inviting yourself to mini-workshops talks, where the people listening are highly intelligent, engaged, and will wonder how they might be able to apply your research into their products. You are promoting your work, yourself, and increasing the real-world impact of your research by communicating it to relevant people trying to build products off this kind of stuff.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Tips:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simplify&lt;/strong&gt;: Understand that the people watching your talk are not the same distribution of people watching your talk at an academic workshop specific to your sub-field, or your academic research group. The audience will be more mixed. So explain everything, even the stuff you think is obvious, including high-level motivations, and don&amp;rsquo;t get bogged down in details or benchmarks (companies largely do not care about academic benchmarks). Also, they really love it when you make some connection to the company&amp;rsquo;s work. Even if it&amp;rsquo;s fuzzy or imprecise, do it because it helps them see your work as relevant to them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tailor&lt;/strong&gt;: If you’ve just completed your PhD, you have a lot to talk about! Have a chat with your would-be manager to work out what works are most relevant to showcase at your tech talk. Ask yourself: What are the best things you can communicate to this &lt;em&gt;specific group&lt;/em&gt; of people? You should highlight your most relevant work for this particular job. The best position you can put yourself into is speaking about something (X) that you know well, that the company doesn’t have expertise in yet, but knows they need expertise in. If you can figure out what X is beforehand, by all means, tailor your talk with this particular company to talk about X in detail. They will fight for you, not only internally to get you an offer, but to give you a competitive offer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visuals&lt;/strong&gt;: When communicating performance, don&amp;rsquo;t just screenshot tables from the paper and put them in your presentation. Tables are great for papers, but terrible for presentations. Bar charts (and similar) were designed to compare quantities visually, use them instead to focus on the values that people care about! Also, qualitative results / videos / images usually make more of an impact in people&amp;rsquo;s minds than quantitative numbers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enthusiasm&lt;/strong&gt;: For many PhD students at the end of their PhDs, your research might seem repetitive / boring to you since you end up saying the same thing many times (especially if your PhD was a long slog, as it is for many students), but it&amp;rsquo;s important to remember your original passion for the field and bring it to the forefront, enthusiasm is very nice to see in presentations, and a lack thereof can really make an otherwise great presentation boring or raise questions of your desire to work in the field.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;1-1s&#34;&gt;1:1s&lt;/h3&gt;
+
+&lt;p&gt;Following your tech talk will be a series of one-to-one meetings, mostly with people you’d be working with. As a manager, there’s some things I’ve noticed that were within the candidate’s control that led to rejections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Do&lt;/strong&gt;:
+
+&lt;ul&gt;
+&lt;li&gt;Admit when you don’t know something well enough to answer. Honesty is a big plus, and we can also move on to new questions. &lt;strong&gt;Caveat&lt;/strong&gt;: take care to not second-guess yourself too much, too much qualifying can sound like you either don&amp;rsquo;t know much or lack confidence in yourself. You still want to sound confident, which doesn’t mean guessing, and doesn’t mean eluding the question, but being clear and comfortable in voicing what you do and do not know when answering a question. This can take some practice and self-awareness to understand if you speak confidently even when you&amp;rsquo;re not sure, or if you downplay your knowledge. Practice with a friend if you like!&lt;/li&gt;
+&lt;li&gt;Prepare to answer situational and behavioral interview questions (i.e., “tell me about a time when you…”)&lt;/li&gt;
+&lt;li&gt;Ask questions back!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Don’t&lt;/strong&gt;:
+
+&lt;ul&gt;
+&lt;li&gt;Guess without saying you’re guessing: when people feel you’re making stuff up, it’s a red flag. Similarly don’t evade or reorient questions.&lt;/li&gt;
+&lt;li&gt;Don’t fear (sometimes awkward) pauses. It’s better to consider a question for a few seconds and then delivering a well-thought out response, versus rambling into an answer to avoid any silence.&lt;/li&gt;
+&lt;li&gt;Don’t treat 1:1s with peer-level interviewers less seriously than those with managers or team leads. It can be easy to become more relaxed or casual in these, but it’s important to remember that each individual 1:1 plays a key role in the decision making process.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rejection&#34;&gt;Rejection&lt;/h2&gt;
+
+&lt;p&gt;No one likes rejection, but expect to receive some rejections. If it helps, everyone gets rejected (and if they didn’t, then they weren’t pushing the envelope of what positions they could plausibly get).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What it doesn’t mean&lt;/strong&gt;: Know that many rejections are not so much a reflection on you or your expertise as they are the current state of the hiring company: their current constraints, resources, and vision that are constantly evolving; and the current state of their other candidates. I often meet many awesome candidates that I would want to hire and work with, but headcount limitations and other internal constraints or politics often prevent it. So even though a rejection can hurt, it’s rarely because the company didn’t like you as a person (“team fit”), and it often doesn’t mean they did not value your skills or expertise, there’s often many other variables and hidden constraints behind the curtains. This means you can generally re-apply a year later too, when their situation has changed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multiple teams&lt;/strong&gt;: Many companies are not a single entity from your perspective, meaning a rejection from “Team A” might not be a rejection from “Team B”. Different teams usually offer different positions within the same company, for non-small companies, you can often apply to many positions there concurrently, to be assessed independently. Just because one rejected you, doesn’t mean other teams will. If Team A rejects your candidacy, often Team B will not care. I’ve never seen any backchatter about “oooh FYI candidate X was so bad, I doubt you’ll want them on your team”. Instead the opposite: people telling me “this person was great, but not the best fit for our team, but I think your team could unlock their potential”, and I love getting those messages so I can watch out for that candidate. For the same reasons a rejection now doesn’t mean a rejection later. Maybe give it a year or so before reapplying, but no one will care that you got rejected before, it’ll be no different to any brand new application.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feedback and moving forward&lt;/strong&gt;: Rejections aren’t anything to feel ashamed about. I got rejected by Nvidia, Cruise, and Uber. I have no idea why. You can ask for feedback. The feedback I got back from recruiters was vague and generic (possibly because they don’t know, or to ensure no PR or legal repercussions, or because you’re no longer a priority to them). For technical feedback, email the team leads (not recruiter) directly. When I receive these emails as a manager, I try to be as informative as possible, based on what I can and can’t say. Nathan Lambert has a &lt;a href=&#34;https://www.natolambert.com/writing/ai-phd-job-hunt&#34; target=&#34;_blank&#34;&gt;nice visualization&lt;/a&gt; about his rejections and acceptances timeline. As you can see, it’s a numbers game: while you have limited control over boosting your probability of acceptance, you do control who you apply to!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;offers&#34;&gt;Offers&lt;/h1&gt;
+
+&lt;p&gt;If you get this far, congrats! Getting offers from companies is always a great feeling. Now the tables have turned. Now you have the power, and the same interviewers who were previously grilling you, are courting you and trying to convince you to join their team.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t be pressured&lt;/strong&gt;: Some companies might give you 7 days to make a decision. This can be a bluff, a bit of a bullying tactic to pressure you into a premature decision, and effective against those fresh from academia who generally underestimate their labor’s worth after years of working long hours for low pay. Or, it could be that the team only has one headcount and another candidate waiting that may disappear soon. Either way, you can often push back on this. You’ll know they’ll need a decision from you soon when the frequency of their calls increases (they are generally very clear with you before they really do withdraw the offer). Most companies expect you’ll need more like a month or more to make a decision.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Visits&lt;/strong&gt;: During covid companies may have all their interviews virtually, but afterwards they may still invite you to physically check out the office. To decline this invitation is to communicate that you are &lt;em&gt;highly unlikely to accept their offer&lt;/em&gt;, and the company might quietly deprioritize you and your timeline if they have other candidates in their pipeline they are more confident about, which could affect how you negotiate with other companies. This might not affect you, but it’s good to think about—and be aware of—what effect your responses have during negotiations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Requests for salary expectations&lt;/strong&gt;: Some advise to not reveal your salary expectations (or previous salary) before receiving an initial offer from the company, as you’ll likely underestimate what you can otherwise get. You can politely decline these requests and ask the company to make an offer first (most do anyway), but as long as you get &lt;em&gt;multiple offers&lt;/em&gt; you’ll reach your market value either way during &lt;a href=&#34;./#negotiation&#34;&gt;negotiation&lt;/a&gt;, and any initial guess you made will not ultimately affect your final offer. So don’t worry too much if you slip up here, just make sure you get multiple offers.&lt;/p&gt;
+
+&lt;h2 id=&#34;negotiation&#34;&gt;Negotiation&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Everything is negotiable&lt;/strong&gt;. You will receive an &lt;em&gt;initial offer&lt;/em&gt; from the company. This is not their final offer. If you know to ask for more, you can get it, but you have to ask. Everything in that offer is negotiable too: base salary, retention bonuses, signing bonus, stock, hybrid work format, start date, etc. How far you can push things in your favor is a function of how much they value your skills and experience. Some candidates might be able to negotiate more or less than what you can at the same company. Some companies try to negotiate within certain bounds to avoid grumbling from internal coworkers that you’re being paid significantly more while in the same position at the same company. Other companies do not care and will treat everyone independently. The reality is: once you have unique skills (e.g., from a PhD) the monetary value of your skills is unique. HR might nevertheless try to cluster employees hierarchically into groups with similar positions, titles, and pay; but such compensation fairness only exists to mitigate internal grumbling. If you want to negotiate a higher compensation than what your would-be-coworkers get, a creative way around this is “retention bonuses”, additional to your base pay. HR only cares about keeping base-pay equal-ish. So if you are hitting the limit with base-pay negotiations, try switching to retention bonus negotiation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leverage multiple offers&lt;/strong&gt;: &lt;em&gt;The easiest way to negotiate your salary is to have multiple offers in hand&lt;/em&gt;. Only through leading companies into an auction of your skill and experience can you determine their true market value. When I got my first offer, the compensation package offered was mostly fixed while they were the only buyer. Once I got multiple offers, I could ask for large raises beyond the initial offer, and change the pay/stock ratios, etc. Complaining about Bay-area rent is not as effective as negotiating using a counter offer from a company’s competitor. It’s generally easier negotiating with hard numbers from counter offers than vague complaints about how the Bay area is expensive. Although some people still have success negotiating with single offers. If you only have a single offer, try writing a case for why the company should hire you, and the compensation amount you’re after, and send it to the recruiter. In big companies, the recruiter has to write such a thing anyway to send to the compensation team to justify a high offer, so they will like you for saving them that work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leveraging peers’ offers&lt;/strong&gt; (ideally peers 1-2 years ahead of you) can help, if you ask nicely what offers they got. This can be useful if the offer you&amp;rsquo;re getting is way less than you expect, or you don&amp;rsquo;t want to go through the process of applying to many companies. Note, this won&amp;rsquo;t have as much power as you leveraging multiple offers of your own.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Green card&lt;/strong&gt;: If you are a US visa holder, you may also be interested in the Green Card (permanent residence) which companies can help you with after X year(s) working with them, so you don’t leave them too soon. X is also negotiable, especially if you have reasons like your partner can only work in the US if you have a green card. That said, you don’t actually need a company to support your green card application—unlike visas which require a sponsor—you can apply for the green card yourself with an immigration lawyer for $5–10k (affordable once you begin your tech salary).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s worth the effort&lt;/strong&gt;. Do try to see the negotiation through to the end, even if you don’t like haggling or confrontation. Another five minute phone call can result in bumping your salary another $30k each time you go back and forth between the companies competing for you. From a financial perspective, it is well worth your time: you will rarely see such gains / effort ratios again. Note: you’re really negotiating with the finance department, not the team you’ll be working for. Your team doesn’t care how much you get paid, only that you join, so feel free to negotiate firmly and politely to reach your market value. Asking for such increases can seem extreme, even greedy to those used to academic salaries; but it’s important to realize that this is normal in industry and to not sell yourself short.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recruiters are on your side&lt;/strong&gt;: Recruiters are not adversaries during negotiations, even though negotiation can feel slightly adversarial. Good recruiters understand how difficult the decision is for most candidates. They are your advocates and understand that negotiations are complex. Once you pass the interviews, you’re now really working &lt;em&gt;with&lt;/em&gt; the recruiter, negotiating together against the company’s finance team to boost your offer. Your technical manager will likely be helping in the background too. It’s neither of their money, they don&amp;rsquo;t care if their multi-billion dollar company has to spend slightly more to get you. They both care about working with you though, and want to make it happen. Understanding this can help frame your communication as &amp;ldquo;helping&amp;rdquo; the recruiter rather than &amp;ldquo;arguing&amp;rdquo; with them. So generally, it helps to provide recruiters with all of the information you are thinking about to make your decisions. Things like relocation status, family decisions and plans, short and long term career goals, things you like about the companies you are interviewing for, things you don&amp;rsquo;t like, etc. Being honest generally allows recruiters to get you the best offer possible and the answers you need to make the decision. No one wants to trick you into joining their company. And regardless if you join or not, it’s all part of growing both of your professional networks (the lengthy conversations can result in getting to know each other well) that you can later use to reach out for career or offer advice later down the track.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Augmenting the effect&lt;/strong&gt;: You can augment this effect of recruiters and the team fighting for you internally too by &lt;em&gt;remaining upbeat about the company throughout negotiations&lt;/em&gt;: tell everyone you’re speaking to at the company how happy you are to have the offer and how you’d be really happy working there, assuming we can reach a compensation offer that is fair / matches other companies. For example, if company A is offering you $50k more than company B, but you actually prefer company B, tell them this! Tell company B “both companies are great, though I would prefer working at company B, but it’s difficult for me to financially justify given the $50k difference, can you please help me to come close to or match company A”? Company B will love hearing this and they will fight for you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exception&lt;/strong&gt;: An exception is startups. At small companies, there are no recruiters. Most likely it&amp;rsquo;s either the CEO or CTO, who really do care about money spent. In these situations, you can leverage the fact that recruiting is time intensive for them. So if they have the option of spending $X more on you, just so that they can save a month of recruiting and work on other higher priority things, that’s a win-win.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Communicating offers&lt;/strong&gt;: Some applicants are unsure what information they can or should reveal about other offers they’ve received. In general, it’s advantageous to share offer information with recruiters. Recruiters are typically negotiating with three parties: the candidate, the compensation team, and the head of the organization you are interviewing for. The more data and numbers you provide, the better as it allows the recruiter to share competitive offer information internally and make a better case increasing your current offer. At the very least you should be providing the total compensation of your other offers. And it’s usually worth sharing &lt;em&gt;who&lt;/em&gt; the offers are coming from too:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reason against&lt;/strong&gt;: Occasionally company X will say they don’t compete with company Y’s offers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reason for&lt;/strong&gt;: Recruiters and senior engineers have often worked at various places and know more than you about the other institutions (their competitors), and how they compare in terms of culture and tech, to help you understand the difference. Same with the more senior engineers who have worked at multiple companies (everyone switches around every few years). They are not there to bad-mouth competitors, but they often know more about these places than you do, and can talk about the known differences in some ways that may be of relevance for you. Your real enemy here is the “unknown unknowns”, of which you have many. My general recommendation is that, if you’re coming fresh from academia, then you probably don’t know that much about how companies really compare against each other, and you’ll gain a lot more from being open about which other companies you’re interested in and why. It gives people a chance to give you relevant information for you to make a better informed decision, rather than you guessing how places compare. And there’s many dimensions along which companies differ. The best choice for you will unlikely be the best on all criteria (pay, location, etc) so you’ll need to weight the pros and cons, which recruiters and manager can talk through with you (for sure take what company A says about company B with a grain of salt, but remember to also take what company A says about &lt;em&gt;company A&lt;/em&gt; with a grain of salt too! Better to have all perspectives (AA, AB, BA, BB) than only AA and BB.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-compete agreements&lt;/strong&gt;: watch out for any &lt;a href=&#34;https://www.investopedia.com/terms/n/noncompete-agreement.asp&#34; target=&#34;_blank&#34;&gt;non-compete agreements&lt;/a&gt; that lock you out of your main profession and industry for 3–12 months after your first job, stalling your career. Negotiate away any in your contract before you sign. California law already prohibits them, but many other states and nations permit them. They only serve the company&amp;rsquo;s interests, not yours, so don’t sign them.&lt;/p&gt;
+
+&lt;h3 id=&#34;stock&#34;&gt;Stock&lt;/h3&gt;
+
+&lt;p&gt;Most tech companies offer stock as part of your compensation. For a helpful resource to break down the different types and jargon, see the &lt;a href=&#34;https://www.holloway.com/g/equity-compensation&#34; target=&#34;_blank&#34;&gt;Holloway guide to Equity Compensation&lt;/a&gt;. This oftens follows a four year vesting schedule of stock with a one year cliff (meaning: no stock if you leave in the first year). Cadence of vesting could be monthly or quarterly depending on the company. Depending on the company, receiving stock is a gamble. Google stock is not a gamble. Private stock (aka stock that you can’t just convert to cash) is a gamble. It can be nice to have some stock, to look forward to “upside” if it skyrockets, but it can also crash and be worthless. You can exchange stock for cash as part of your negotiation. Note stock and cash are often taxed differently too.&lt;/p&gt;
+
+&lt;h3 id=&#34;sign-on-bonus&#34;&gt;Sign-On Bonus&lt;/h3&gt;
+
+&lt;p&gt;Negotiation is primarily about your annual compensation, being the most important thing. That said, at the end of salary negotiation, one final thing I would recommend asking for (or increasing) is a sign-on bonus: a one-off lump-sum payment after signing your employment contract. Especially so if you’re fresh out of grad school without much money to your name yet. Reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The company can usually justify it (one-off costs are easier to justify internally given their current budget, especially if they are underspending that year, opposed to committing to recurring costs that require estimating uncertain future budgets).&lt;/li&gt;
+&lt;li&gt;A lot of problems magically disappear when you’re not worried about a near-zero bank account. Your “utility of money” curve is steep at this point, and a cash injection can really help you immediately move to a nicer place as you start your new job, and pay a few months rent up front if required. Sign-on bonuses usually dwarf relocation packages in the tech world, so focus on that.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;start-date&#34;&gt;Start Date&lt;/h3&gt;
+
+&lt;p&gt;You may be close to (or experiencing) burn-out after academia. Academia can be punishing. An important consideration for your mental health and general life satisfaction is working out a suitable start date that allows you time to take a well deserved break. This may require a little negotiation, but most employers are flexible on this. Some employers will pressure you to start sooner than you’d prefer, but rarely need you to start as soon as they’re asking. So consider making your signature conditional on being able to take whatever time off you need after graduation. Taking 1–3 months holiday after graduation is completely normal (unless one’s visa situation demands continual employment to retain residency status), but choose whatever is best for you before signing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Visa considerations&lt;/strong&gt;: Timing a start date that gives you some time off as a student on a visa can be a little tricky. You may have some flexibility in choosing the end date of your PhD to mix some vacation and dissertation writing. You may also get a 60 day grace period after completing your program within which you can start your employment, so you can agree with the company to put the start date towards the end of the 60 day grace period (and place this date on your OPT application). However, if you’re not on a student visa, or switching visa types to say H1-B (summer) or O-1 (year round), immigration lawyers may suggest you start asap to increase chances that your new visa application is accepted. In any case: chat to company lawyers about this, you can do this even before signing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;How do you tell when negotiations reach their end, do you just keep going back and forth between companies forever? If offers from your top choices are nearly identical or if some subset of your top choices won&amp;rsquo;t match the others after 2+ rounds of negotiation, or when they only increment by $5k each conversation, then you’re near the end. Sometimes recruiters use specific language like &amp;ldquo;this is our best and final&amp;rdquo;. You can ask for their &amp;ldquo;best and final&amp;rdquo; if you&amp;rsquo;re ready to hear it and make your decision.&lt;/p&gt;
+
+&lt;h2 id=&#34;decision&#34;&gt;Decision&lt;/h2&gt;
+
+&lt;p&gt;While getting multiple offers is a great feeling, and helps you negotiate a better salary, the decision can be bittersweet if you would be excited about working at each of those places. If you are like I was and had trouble deciding, I recommend re-doing the decision matrix exercise (now that you understand each company better and can score each of their qualities more confidently).&lt;/p&gt;
+
+&lt;table style=&#34;text-align:center&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;background-color:#FCF3CF;text-align:left&#34;&gt;Quality&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;Projects&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;People&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;Pay&lt;/th&gt;
+    &lt;th style=&#34;background-color:#FCF3CF&#34;&gt;Location&lt;/th&gt;
+    &lt;th style=&#34;background-color:#E8DAEF&#34;&gt;Weighted Score&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr style=&#34;background-color:#FCF3CF&#34;&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Weight&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;4&lt;/td&gt;
+    &lt;td style=&#34;background-color:#E8DAEF&#34;&gt;Σ weight × score&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Company A&lt;/td&gt;
+    &lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;7&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;224&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;&lt;b&gt;Company B&lt;/b&gt;&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;&lt;b&gt;228&lt;/b&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;text-align:left&#34;&gt;Company C&lt;/td&gt;
+    &lt;td&gt;8&lt;/td&gt;
+    &lt;td&gt;7&lt;/td&gt;
+    &lt;td&gt;7&lt;/td&gt;
+    &lt;td&gt;6&lt;/td&gt;
+    &lt;td&gt;214&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;You may find after doing this exercise that the total score aligns with your prior intuition on which company you consciously or subconsciously prefer (e.g., Company B). While your decision isn’t just as simple as a spreadsheet, the &lt;em&gt;exercise&lt;/em&gt; of doing so can nevertheless make one feel better about such a big choice when the decision rationale is all laid out explicitly (especially after fine tuning the factor weights to see if that changes which company has the highest overall score, and finding out which quality you’re quite sensitive to, and then thinking about that quality more). It also helps to re-think what you want your life to look like for the next few years, and how this job will position you for your &lt;em&gt;second&lt;/em&gt; job in the future.&lt;/p&gt;
+
+&lt;p&gt;People, culture, and projects are important qualities to consider. Additional company qualities you may wish to consider and compare between:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Publishing?&lt;/strong&gt; Another quality you may want to add to your table is “freedom to publish”, which companies vary wildly on. Some will say “no way”, others will &lt;em&gt;tolerate&lt;/em&gt; it but remind you it’s not your #1 priority: their product is. Others will say their CEO must check and either approve or deny with 50% probability, others will say “yes please, and we’ll give you a bonus if you do”. Conversely, lack of obligation to publish may be what you want to assess through discussing role expectations if you want a change after academia. Or even if they don’t allow publishing, do they allow other things like  blog posts?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reflect&lt;/strong&gt;: Before making your decision, a great question from Donald Dansereau is to ask yourself simply this: &lt;em&gt;Will you find value in the work?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Growth&lt;/strong&gt;: How well does this help you towards longer career goals? Will you get to work alongside technically adept people in your area that you can learn and grow from? You’re not just choosing a job for its pay and intellectual satisfaction, but as a major investment in yourself and your continual education: will this next role help you pursue your larger, long-term career ambitions? If you don’t know what these are yet, take some time to think about them before making your decision.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Networking&lt;/strong&gt;: How good is this job for networking? Who will your coworkers be, who can you get to know within the company?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Work-life-balance&lt;/strong&gt;: how good is it, will you be happy here, will it be stressful?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;More questions?&lt;/strong&gt; Don’t hesitate to call your would-be-manager or would-be-colleagues if you have a few more questions about the company or what it’s like working there, even if you’ve asked them before, or just to chat about your predicament. Especially so if you’ve completed &lt;a href=&#34;./#negotiation&#34;&gt;negotiations&lt;/a&gt; and all compensation offers are similar, or the weighted scoring exercise isn&amp;rsquo;t helping, it’s now really about where you want to work. This can be difficult and emotional, but it’s well worth your would-be-manager&amp;rsquo;s time to have this chat with you. Joining is huge for them, chatting for 30–60 minutes a couple times right before your decision is well worth their time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inform all companies of your decision&lt;/strong&gt;: Let all the companies that gave you offers know of your decision. Remember, that by choosing to work for one company, you&amp;rsquo;re not choosing to work for them forever. You may work with these other companies or people later on. People move around every few years too, so it’s good to remain on &lt;em&gt;good terms&lt;/em&gt; with those you interviewed with in case you—or they—move and you cross paths again.&lt;/p&gt;
+
+&lt;h1 id=&#34;while-in-industry&#34;&gt;While in Industry&lt;/h1&gt;
+
+&lt;p&gt;Remember, the move to industry is not final. It’s easier than ever nowadays to switch back and forth between academia and industry, and even do it concurrently.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publish&lt;/strong&gt;: There’s multiple reasons you may want to keep publishing to consider, including:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Your research will have an impact beyond just your company. The whole world can access and use it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt;. No CEO can claim your breakthroughs as their brilliance if you publicly author the research for all the world to see. The recognition will follow you as you change companies too, better than “I worked on something NDA-protected at company X, can’t give details sorry”. And while companies may own the intellectual property (IP), everyone knows you generated the IP, and are capable of generating more such IP. That recognition increases your value on the job market.
+That said, you may not wish to continue publishing, and be free of it, which is obviously fine. While publication can be helpful, remember you can spend your whole life optimizing for a future job. At some point you should just take it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Read&lt;/strong&gt;: If you are continuing as a scientist, or even an engineer, a deep and up-to-date understanding of the literature is part of your value in the knowledge economy. Your awareness of technologies and available methods in your field is part of what makes you a great asset to your employer, and helps you get better job offers down the road too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Network&lt;/strong&gt;: Make a habit of constantly breaking outside whatever bubble (lab or company) you are currently in. Limiting your “social credit” to only within your current company is to put all your eggs in one basket, which would be risky. Your salary potential is a function of both internal and external networking, so don’t be extreme one way or the other. Some people even make habits of interviewing at new companies every year, even if they don’t plan on leaving their current company, simply to continually understand the current options, and stay sharp with continual interview practice (always ready to do live coding interviews etc). It can instill much confidence when you can be ready at the drop of the hat to switch companies, and know where you could switch to, if you need to.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Finally&lt;/em&gt;: have fun, hopefully you find a job that’s right for you. And if you feel you chose the wrong job then remember it’s not forever. The great thing about 2022 is that it’s very acceptable for people to move jobs every few years now without it negatively impacting their résumé. In fact, changing companies is often the fastest way to get promotions.&lt;/p&gt;
+
+&lt;h3 id=&#34;jpg-nothing-jpg-1&#34;&gt;&lt;img src=&#34;./nothing.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>Control-Aware Prediction Objectives for Autonomous Driving</title>
@@ -344,7 +740,7 @@ Not all websites are accessible to everyone. &lt;a href=&#34;https://sites.googl
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Custom URLs:&lt;/strong&gt; Alternatively, you can provide custom URLs to make certain sites accessible. For example &lt;a href=&#34;https://www.icra2022av.org&#34; target=&#34;_blank&#34;&gt;https://www.icra2022av.org&lt;/a&gt; (accessible in China) is actually this website under the hood &lt;a href=&#34;https://sites.google.com/view/icra2022av/home&#34; target=&#34;_blank&#34;&gt;https://sites.google.com/view/icra2022av/home&lt;/a&gt; (inaccessible in China), so we just communicate the .org domain version. You can do this by going to your google site, then settings→ custom domains → add → buy a domain (~$12 a year).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Github or Google Sites?:&lt;/strong&gt; An advantage of google sites: quick to create + upkeep, for anyone in team. Advantage of github: get more control on appearance and enable javascript. For example, people can get confused with timezones, so I always use the “Anywhere on Earth” (AoE) timezone, and include a &lt;a href=&#34;#submission-countdown&#34;&gt;javascript countdown&lt;/a&gt; so people know exactly when the deadline is, or linking to &lt;a href=&#34;https://time.is/Anywhere_on_Earth&#34; target=&#34;_blank&#34;&gt;https://time.is/Anywhere_on_Earth&lt;/a&gt;. For github I used &lt;a href=&#34;https://github.com/jweslley/hugo-conference&#34; target=&#34;_blank&#34;&gt;this template&lt;/a&gt; which &lt;a href=&#34;https://jweslley.github.io/hugo-conference&#34; target=&#34;_blank&#34;&gt;looks like this&lt;/a&gt; initially, which I change to &lt;a href=&#34;https://ml4ad.github.io/&#34; target=&#34;_blank&#34;&gt;look like this&lt;/a&gt;. Or use GitHub Pages which is simpler, looks like &lt;a href=&#34;https://meta-learn.github.io/2021/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;; or &lt;a href=&#34;http://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;http://jekyllrb.com/&lt;/a&gt; which looks like &lt;a href=&#34;https://learn-to-race.org/workshop-ai4ad-ijcai2022/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;. An advantage of github is you can upload and host papers directly on your website.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Github or Google Sites?&lt;/strong&gt; An advantage of google sites: quick to create + upkeep, for anyone in team. Advantage of github: get more control on appearance and enable javascript. For example, people can get confused with timezones, so I always use the “Anywhere on Earth” (AoE) timezone, and include a &lt;a href=&#34;#submission-countdown&#34;&gt;javascript countdown&lt;/a&gt; so people know exactly when the deadline is, or linking to &lt;a href=&#34;https://time.is/Anywhere_on_Earth&#34; target=&#34;_blank&#34;&gt;https://time.is/Anywhere_on_Earth&lt;/a&gt;. For github I used &lt;a href=&#34;https://github.com/jweslley/hugo-conference&#34; target=&#34;_blank&#34;&gt;this template&lt;/a&gt; which &lt;a href=&#34;https://jweslley.github.io/hugo-conference&#34; target=&#34;_blank&#34;&gt;looks like this&lt;/a&gt; initially, which I change to &lt;a href=&#34;https://ml4ad.github.io/&#34; target=&#34;_blank&#34;&gt;look like this&lt;/a&gt;. Or use GitHub Pages which is simpler, looks like &lt;a href=&#34;https://meta-learn.github.io/2021/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;; or &lt;a href=&#34;http://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;http://jekyllrb.com/&lt;/a&gt; which looks like &lt;a href=&#34;https://learn-to-race.org/workshop-ai4ad-ijcai2022/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;. An advantage of github is you can upload and host papers directly on your website.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Other:&lt;/strong&gt; You could also host and manage websites using &lt;a href=&#34;https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html&#34; target=&#34;_blank&#34;&gt;Amazon S3&lt;/a&gt; buckets&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -501,7 +897,7 @@ Sponsors might also request &lt;em&gt;proof&lt;/em&gt; that prize recipients are
 
 &lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;
 
-&lt;p&gt;This advice comes from colleagues and my own experience organizing the following workshops:&lt;/p&gt;
+&lt;p&gt;This advice comes from colleagues and my own experience co-organizing the following workshops:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;ICLR 2019 &lt;a href=&#34;https://tarl2019.github.io/&#34; target=&#34;_blank&#34;&gt;Task-Agnostic Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
@@ -512,8 +908,9 @@ Sponsors might also request &lt;em&gt;proof&lt;/em&gt; that prize recipients are
 &lt;li&gt;NeurIPS 2020 &lt;a href=&#34;https://ml4ad.github.io/2020&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;ICCV 2021 &lt;a href=&#34;https://www.mair2.com/&#34; target=&#34;_blank&#34;&gt;Multi-Agent Interaction and Relational Reasoning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;ICCV 2021 &lt;a href=&#34;https://avvision.xyz/iccv21/&#34; target=&#34;_blank&#34;&gt;Autonomous Vehicle Vision&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;NeurIPS 2021 &lt;a href=&#34;https://ml4ad.github.io&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeurIPS 2021 &lt;a href=&#34;https://ml4ad.github.io/2021&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;ICRA 2022 &lt;a href=&#34;https://www.icra2022av.org/&#34; target=&#34;_blank&#34;&gt;Fresh Perspectives on the Future of Autonomous Driving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeurIPS 2022 &lt;a href=&#34;https://ml4ad.github.io&#34; target=&#34;_blank&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -854,7 +1251,7 @@ problems&amp;rdquo; and getting nowhere.&lt;/li&gt;
     <item>
       <title></title>
       <link>https://rowanmcallister.github.io/authors/admin/</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a machine learning manager at the &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; in California focusing on autonomous vehicle planning. Previously, I was a PhD student at the &lt;a href=&#34;http://mlg.eng.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;Machine Learning Group&lt;/a&gt; with &lt;a href=&#34;http://mlg.eng.cam.ac.uk/carl/&#34; target=&#34;_blank&#34;&gt;Carl Rasmussen&lt;/a&gt; and a postdoc in the &lt;a href=&#34;http://rail.eecs.berkeley.edu&#34; target=&#34;_blank&#34;&gt;Robotic AI and Learning Lab&lt;/a&gt; with &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt;, working on probabilistic modeling toward data-efficient reinforcement learning and autonomous vehicle planning.&lt;/p&gt;
