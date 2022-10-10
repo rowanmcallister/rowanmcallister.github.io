@@ -6,10 +6,28 @@
     <description>Recent content in 1 on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:01 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RAP: Risk-Aware Prediction for Robust Planning</title>
+      <link>https://rowanmcallister.github.io/publication/rap/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/rap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Anyone There? Learning a Planner Contingent on Perceptual Uncertainty</title>
+      <link>https://rowanmcallister.github.io/publication/avp/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/avp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control-Aware Prediction Objectives for Autonomous Driving</title>
