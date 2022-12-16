@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:01 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,17 +14,17 @@
     <item>
       <title></title>
       <link>https://rowanmcallister.github.io/authors/admin/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a machine learning scientist at the &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; in California focusing on autonomous vehicle planning. Previously I was a postdoc in the &lt;a href=&#34;http://rail.eecs.berkeley.edu&#34; target=&#34;_blank&#34;&gt;Robotic AI and Learning Lab&lt;/a&gt; with &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt;, working on probabilistic modeling toward data-efficient reinforcement learning and autonomous vehicle planning.&lt;/p&gt;
+      <description>&lt;p&gt;I work on machine learning methods for autonomous vehicle planning in California.  I was fortunate to learn from &lt;a href=&#34;http://mlg.eng.cam.ac.uk/carl/&#34; target=&#34;_blank&#34;&gt;Carl Rasmussen&lt;/a&gt; as a PhD student, and from &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt; as a postdoc, focusing on probabilistic modeling for reinforcement learning. I am passionate about autonmous vehicles, previously working at &lt;a href=&#34;https://en.wikipedia.org/wiki/Uber#Self-driving_cars&#34; target=&#34;_blank&#34;&gt;UberATG&lt;/a&gt; (now &lt;a href=&#34;https://aurora.tech/&#34; target=&#34;_blank&#34;&gt;Aurora&lt;/a&gt;), co-founded &lt;a href=&#34;https://rowanmcallister.github.io/img/lbl.jpg&#34;&gt;Light Blue Labs&lt;/a&gt; (now &lt;a href=&#34;https://wayve.ai/&#34; target=&#34;_blank&#34;&gt;Wayve&lt;/a&gt;), managed a research team at &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; on prediction and planning, and organize &lt;a href=&#34;#workshop&#34;&gt;workshops&lt;/a&gt; on autonmous driving.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adrien Gaidon</title>
       <link>https://rowanmcallister.github.io/authors/adrien-gaidon/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/adrien-gaidon/</guid>
       <description></description>
@@ -33,9 +33,108 @@
     <item>
       <title>Blake Wulfe</title>
       <link>https://rowanmcallister.github.io/authors/blake-wulfe/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/blake-wulfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haruki Nishimura</title>
+      <link>https://rowanmcallister.github.io/authors/haruki-nishimura/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/haruki-nishimura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Mercat</title>
+      <link>https://rowanmcallister.github.io/authors/jean-mercat/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/jean-mercat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles Packer</title>
+      <link>https://rowanmcallister.github.io/authors/charles-packer/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/charles-packer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff He</title>
+      <link>https://rowanmcallister.github.io/authors/jeff-he/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/jeff-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Gonzalez</title>
+      <link>https://rowanmcallister.github.io/authors/joseph-gonzalez/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/joseph-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Wright</title>
+      <link>https://rowanmcallister.github.io/authors/matthew-wright/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/matthew-wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Rhinehart</title>
+      <link>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergey Levine</title>
+      <link>https://rowanmcallister.github.io/authors/sergey-levine/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/sergey-levine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Wang</title>
+      <link>https://rowanmcallister.github.io/authors/xin-wang/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/xin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logan Ellis</title>
+      <link>https://rowanmcallister.github.io/authors/logan-ellis/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/logan-ellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashwin Balakrishna</title>
+      <link>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</guid>
       <description></description>
     </item>
     
@@ -72,60 +171,6 @@
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/pavel-tokmakov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charles Packer</title>
-      <link>https://rowanmcallister.github.io/authors/charles-packer/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/charles-packer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeff He</title>
-      <link>https://rowanmcallister.github.io/authors/jeff-he/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/jeff-he/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joseph Gonzalez</title>
-      <link>https://rowanmcallister.github.io/authors/joseph-gonzalez/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/joseph-gonzalez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matthew Wright</title>
-      <link>https://rowanmcallister.github.io/authors/matthew-wright/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/matthew-wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicholas Rhinehart</title>
-      <link>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sergey Levine</title>
-      <link>https://rowanmcallister.github.io/authors/sergey-levine/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/sergey-levine/</guid>
       <description></description>
     </item>
     
@@ -216,15 +261,6 @@
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/suneel-belkhale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ashwin Balakrishna</title>
-      <link>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</guid>
       <description></description>
     </item>
     

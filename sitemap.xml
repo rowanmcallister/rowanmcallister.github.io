@@ -3,38 +3,203 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rowanmcallister.github.io/authors/admin/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>https://rowanmcallister.github.io/workshop/neurips2022/</loc>
+    <lastmod>2022-12-03T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/publication_types/3/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>https://rowanmcallister.github.io/</loc>
+    <lastmod>2022-12-03T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/</loc>
+    <lastmod>2022-12-03T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/admin/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication_types/1/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/authors/adrien-gaidon/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/authors/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/tags/autonomous-vehicles/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/authors/blake-wulfe/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/haruki-nishimura/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/jean-mercat/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication_types/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/rap/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/tags/</loc>
+    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/charles-packer/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/avp/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/jeff-he/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/joseph-gonzalez/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/matthew-wright/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/sergey-levine/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/xin-wang/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/post/industry/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/post/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/icra2022/</loc>
+    <lastmod>2022-05-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/capo/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/logan-ellis/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/post/workshops/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/dard/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/neurips2021/</loc>
+    <lastmod>2021-12-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/post/research/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/iccv2021b/</loc>
+    <lastmod>2021-10-17T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/iccv2021a/</loc>
+    <lastmod>2021-10-17T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -67,67 +232,8 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/publication_types/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/publication/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/tags/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/publication_types/1/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/charles-packer/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rowanmcallister.github.io/publication/contingency/</loc>
     <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/jeff-he/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/joseph-gonzalez/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/matthew-wright/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/nicholas-rhinehart/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -137,20 +243,8 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/authors/sergey-levine/</loc>
-    <lastmod>2021-04-21T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rowanmcallister.github.io/publication/goals/</loc>
     <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -169,6 +263,26 @@
     <loc>https://rowanmcallister.github.io/authors/yarin-gal/</loc>
     <lastmod>2021-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/neurips2020/</loc>
+    <lastmod>2020-12-11T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/eccv2020/</loc>
+    <lastmod>2020-08-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/icml2020/</loc>
+    <lastmod>2020-07-17T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/rss2020/</loc>
+    <lastmod>2020-07-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -235,9 +349,8 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/authors/ashwin-balakrishna/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rowanmcallister.github.io/workshop/neurips2019/</loc>
+    <lastmod>2019-12-14T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -284,6 +397,11 @@
   <url>
     <loc>https://rowanmcallister.github.io/publication/precog/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/iclr2019/</loc>
+    <lastmod>2019-05-06T13:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -6,10 +6,37 @@
     <description>Recent content in Adrien Gaidon on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:01 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/adrien-gaidon/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RAP: Risk-Aware Prediction for Robust Planning</title>
+      <link>https://rowanmcallister.github.io/publication/rap/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/rap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control-Aware Prediction Objectives for Autonomous Driving</title>
+      <link>https://rowanmcallister.github.io/publication/capo/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/capo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics-Aware Comparison of Learned Reward Functions</title>
+      <link>https://rowanmcallister.github.io/publication/dard/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/dard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous-Agent Trajectory Forecasting Incorporating Class Uncertainty</title>
