@@ -6,10 +6,19 @@
     <description>Recent content on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>In-Distribution Barrier Functions: Self-Supervised Policy Filters that Avoid Out-of-Distribution States</title>
+      <link>https://rowanmcallister.github.io/publication/idbf/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/idbf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RAP: Risk-Aware Prediction for Robust Planning</title>
@@ -1277,7 +1286,7 @@ problems&amp;rdquo; and getting nowhere.&lt;/li&gt;
     <item>
       <title></title>
       <link>https://rowanmcallister.github.io/authors/admin/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I work on machine learning methods for autonomous vehicle planning at &lt;a href=&#34;https://waymo.com/&#34; target=&#34;_blank&#34;&gt;Waymo&lt;/a&gt; in California. I was fortunate to learn from &lt;a href=&#34;http://mlg.eng.cam.ac.uk/carl/&#34; target=&#34;_blank&#34;&gt;Carl Rasmussen&lt;/a&gt; as a PhD student, and from &lt;a href=&#34;http://eecs.berkeley.edu/~svlevine/&#34; target=&#34;_blank&#34;&gt;Sergey Levine&lt;/a&gt; as a postdoc, focusing on probabilistic modeling for reinforcement learning. I am passionate about autonmous vehicles, previously working at &lt;a href=&#34;https://web.archive.org/web/20190117154607/www.uber.com/info/atg/&#34; target=&#34;_blank&#34;&gt;UberATG&lt;/a&gt; (now &lt;a href=&#34;https://aurora.tech/&#34; target=&#34;_blank&#34;&gt;Aurora&lt;/a&gt;), co-founded &lt;a href=&#34;https://rowanmcallister.github.io/img/lbl.jpg&#34;&gt;Light Blue Labs&lt;/a&gt; (now &lt;a href=&#34;https://wayve.ai/&#34; target=&#34;_blank&#34;&gt;Wayve&lt;/a&gt;), managed a research team at &lt;a href=&#34;https://www.tri.global/&#34; target=&#34;_blank&#34;&gt;Toyota Research Institute&lt;/a&gt; on prediction and planning, and organize &lt;a href=&#34;#workshop&#34;&gt;workshops&lt;/a&gt; on autonmous driving.&lt;/p&gt;

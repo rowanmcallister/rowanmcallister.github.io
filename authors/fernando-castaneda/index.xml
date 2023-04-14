@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haruki Nishimura on Rowan McAllister</title>
-    <link>https://rowanmcallister.github.io/authors/haruki-nishimura/</link>
-    <description>Recent content in Haruki Nishimura on Rowan McAllister</description>
+    <title>Fernando Castaneda on Rowan McAllister</title>
+    <link>https://rowanmcallister.github.io/authors/fernando-castaneda/</link>
+    <description>Recent content in Fernando Castaneda on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://rowanmcallister.github.io/authors/haruki-nishimura/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rowanmcallister.github.io/authors/fernando-castaneda/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rowanmcallister.github.io/publication/idbf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RAP: Risk-Aware Prediction for Robust Planning</title>
-      <link>https://rowanmcallister.github.io/publication/rap/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:01 +0000</pubDate>
-      
-      <guid>https://rowanmcallister.github.io/publication/rap/</guid>
       <description></description>
     </item>
     

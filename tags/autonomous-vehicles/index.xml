@@ -6,10 +6,19 @@
     <description>Recent content in Autonomous Vehicles on Rowan McAllister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://rowanmcallister.github.io/tags/autonomous-vehicles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>In-Distribution Barrier Functions: Self-Supervised Policy Filters that Avoid Out-of-Distribution States</title>
+      <link>https://rowanmcallister.github.io/publication/idbf/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rowanmcallister.github.io/publication/idbf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RAP: Risk-Aware Prediction for Robust Planning</title>

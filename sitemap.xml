@@ -3,14 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rowanmcallister.github.io/workshop/neurips2022/</loc>
-    <lastmod>2022-12-03T13:00:00+00:00</lastmod>
+    <loc>https://rowanmcallister.github.io/authors/admin/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication_types/1/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/adrien-gaidon/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/tags/autonomous-vehicles/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/fernando-castaneda/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/haruki-nishimura/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/idbf/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/authors/koushil-sreenath/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication_types/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/publication/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rowanmcallister.github.io/</loc>
-    <lastmod>2022-12-03T13:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/tags/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rowanmcallister.github.io/workshop/neurips2022/</loc>
+    <lastmod>2022-12-03T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,42 +88,7 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/authors/admin/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/publication_types/1/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/adrien-gaidon/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/tags/autonomous-vehicles/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rowanmcallister.github.io/authors/blake-wulfe/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/authors/haruki-nishimura/</loc>
     <lastmod>2022-09-09T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -66,25 +100,8 @@
   </url>
   
   <url>
-    <loc>https://rowanmcallister.github.io/publication_types/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/publication/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rowanmcallister.github.io/publication/rap/</loc>
     <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rowanmcallister.github.io/tags/</loc>
-    <lastmod>2022-09-09T00:00:01+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
